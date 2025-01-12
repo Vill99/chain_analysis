@@ -1,0 +1,1228 @@
+[Sat Jan 11 15:41:24 2025] Welcome to EverQuest!
+[Sat Jan 11 15:41:24 2025] You have entered Kael Drakkel.
+[Sat Jan 11 15:41:24 2025] MESSAGE OF THE DAY: Welcome to Project 1999: Green! Please take the time to visit our forums and review the Play-Nice-Policy! Friendly reminder that Real Money Trading (RMT) including account, platinum or item buying/selling will result in a permanent ban. Dual boxing multiple characters at one time will also result in a ban. 
+[Sat Jan 11 15:41:24 2025] GUILD MOTD: Braddles - See #scheduled-events in Discord for draft week info!
+[Sat Jan 11 15:41:26 2025] Hiktin begins to cast a spell.
+[Sat Jan 11 15:41:27 2025] Players on EverQuest:
+[Sat Jan 11 15:41:27 2025] ---------------------------
+[Sat Jan 11 15:41:27 2025] [60 Warlock] Trioxin (Skeleton) <Legacy of Fire>
+[Sat Jan 11 15:41:27 2025] [ANONYMOUS] Hopethishelps  <Good Guys>
+[Sat Jan 11 15:41:27 2025] [60 Hierophant] Furyion (Wood Elf) <Good Guys>
+[Sat Jan 11 15:41:27 2025] [57 Preserver] Hiktin (Halfling) <Dial a Port>
+[Sat Jan 11 15:41:27 2025] [57 Templar] Aeluithier (High Elf) <Castle>
+[Sat Jan 11 15:41:27 2025] [59 Templar] Queues (Dark Elf) <Safe Space>
+[Sat Jan 11 15:41:27 2025] [60 Grandmaster] Oowch (Iksar) <Good Guys>
+[Sat Jan 11 15:41:27 2025] [60 Warlock] Robosnecro (Gnome) <Good Guys>
+[Sat Jan 11 15:41:27 2025] [60 High Priest] Vill (Dark Elf) <Good Guys>
+[Sat Jan 11 15:41:27 2025] There are 9 players in Kael Drakkal.
+[Sat Jan 11 15:41:30 2025] Players on EverQuest:
+[Sat Jan 11 15:41:30 2025] ---------------------------
+[Sat Jan 11 15:41:30 2025] [60 Arch Mage] Darkfires (Dark Elf) <Good Guys>
+[Sat Jan 11 15:41:30 2025] [ANONYMOUS] Hopethishelps  <Good Guys>
+[Sat Jan 11 15:41:30 2025] [60 Hierophant] Furyion (Wood Elf) <Good Guys>
+[Sat Jan 11 15:41:30 2025] [60 Grandmaster] Oowch (Iksar) <Good Guys>
+[Sat Jan 11 15:41:30 2025] [60 Warlock] Robosnecro (Gnome) <Good Guys>
+[Sat Jan 11 15:41:30 2025] [60 High Priest] Vill (Dark Elf) <Good Guys>
+[Sat Jan 11 15:41:30 2025] There are 6 players in Kael Drakkal.
+[Sat Jan 11 15:41:32 2025] Darkfires begins to cast a spell.
+[Sat Jan 11 15:41:33 2025] Players on EverQuest:
+[Sat Jan 11 15:41:33 2025] ---------------------------
+[Sat Jan 11 15:41:33 2025] [60 Arch Mage] Darkfires (Dark Elf) <Good Guys>
+[Sat Jan 11 15:41:33 2025] [60 Warlock] Trioxin (Skeleton) <Legacy of Fire>
+[Sat Jan 11 15:41:33 2025] [ANONYMOUS] Hopethishelps  <Good Guys>
+[Sat Jan 11 15:41:33 2025] [60 Hierophant] Furyion (Wood Elf) <Good Guys>
+[Sat Jan 11 15:41:33 2025] [57 Preserver] Hiktin (Halfling) <Dial a Port>
+[Sat Jan 11 15:41:33 2025] [57 Templar] Aeluithier (High Elf) <Castle>
+[Sat Jan 11 15:41:33 2025] [59 Templar] Queues (Dark Elf) <Safe Space>
+[Sat Jan 11 15:41:33 2025] [60 Grandmaster] Oowch (Iksar) <Good Guys>
+[Sat Jan 11 15:41:33 2025] [60 Warlock] Robosnecro (Gnome) <Good Guys>
+[Sat Jan 11 15:41:33 2025] [60 High Priest] Vill (Dark Elf) <Good Guys>
+[Sat Jan 11 15:41:33 2025] There are 10 players in Kael Drakkal.
+[Sat Jan 11 15:41:39 2025] Glug, glug, glug...  Darkfires takes a drink from a Summoned: Globe of Water.
+[Sat Jan 11 15:41:39 2025] Glug, glug, glug...  Darkfires takes a drink from a Summoned: Globe of Water.
+[Sat Jan 11 15:41:39 2025] Glug, glug, glug...  Darkfires takes a drink from a Summoned: Globe of Water.
+[Sat Jan 11 15:41:39 2025] Glug, glug, glug...  Darkfires takes a drink from a Summoned: Globe of Water.
+[Sat Jan 11 15:41:42 2025] Aeluithier creates a mystic portal..
+[Sat Jan 11 15:41:42 2025] Hiktin creates a mystic portal..
+[Sat Jan 11 15:41:43 2025] Darkfires begins to cast a spell.
+[Sat Jan 11 15:41:48 2025] Darkfires summons a swirling orb of elements.
+[Sat Jan 11 15:41:49 2025] Darkfires begins to cast a spell.
+[Sat Jan 11 15:42:02 2025] Quintessa begins to cast a spell.
+[Sat Jan 11 15:42:03 2025] Furyion begins to cast a spell.
+[Sat Jan 11 15:42:07 2025] Quintessa fades away.
+[Sat Jan 11 15:42:09 2025] Kobn says 'At your service Master.'
+[Sat Jan 11 15:42:10 2025] Darkfires begins to cast a spell.
+[Sat Jan 11 15:42:12 2025] Kobn begins to radiate with an aura of Elemental Mastery.
+[Sat Jan 11 15:42:19 2025] Kobn says 'Guarding with my life..oh splendid one.'
+[Sat Jan 11 15:42:19 2025] Crankin invites you to join a group.
+[Sat Jan 11 15:42:19 2025] To join the group, click on the 'FOLLOW' option, or 'DISBAND' to cancel.
+[Sat Jan 11 15:42:19 2025] Kobn says 'No longer taunting attackers, Master.'
+[Sat Jan 11 15:42:19 2025] Furyion creates a mystic portal.
+[Sat Jan 11 15:42:21 2025] You notify Crankin that you agree to join the group.
+[Sat Jan 11 15:42:22 2025] You have joined the group.
+[Sat Jan 11 15:42:30 2025] You feel replenished.
+[Sat Jan 11 15:42:33 2025] Blumpp tells the guild, 'chain?'
+[Sat Jan 11 15:42:35 2025] Metran has joined the group.
+[Sat Jan 11 15:42:36 2025] You feel replenished.
+[Sat Jan 11 15:42:38 2025] Darkfires tells the guild, 'no chain yet'
+[Sat Jan 11 15:42:41 2025] Darkfires begins to cast a spell.
+[Sat Jan 11 15:42:42 2025] Darkfires's casting is interrupted!
+[Sat Jan 11 15:42:42 2025] You feel replenished.
+[Sat Jan 11 15:42:44 2025] Darkfires begins to cast a spell.
+[Sat Jan 11 15:42:44 2025] Megachad tells the guild, 'Need WC -> WL'
+[Sat Jan 11 15:42:44 2025] Metran snaps to attention and salutes Crankin crisply.
+[Sat Jan 11 15:42:48 2025] You feel replenished.
+[Sat Jan 11 15:42:51 2025] Darkfires begins to cast a spell.
+[Sat Jan 11 15:42:54 2025] You feel replenished.
+[Sat Jan 11 15:43:00 2025] You feel replenished.
+[Sat Jan 11 15:43:01 2025] Darkfires begins to cast a spell.
+[Sat Jan 11 15:43:01 2025] Your feet slow down.
+[Sat Jan 11 15:43:04 2025] Jolimec has joined the group.
+[Sat Jan 11 15:43:06 2025] You feel replenished.
+[Sat Jan 11 15:43:07 2025] Darkfires begins to cast a spell.
+[Sat Jan 11 15:43:09 2025] Laraus tells the guild, 'im in wc'
+[Sat Jan 11 15:43:10 2025] Durtemike begins to cast a spell.
+[Sat Jan 11 15:43:12 2025] You feel replenished.
+[Sat Jan 11 15:43:14 2025] Durtemike shrinks.
+[Sat Jan 11 15:43:15 2025] Laraus tells the guild, 'at druid rings'
+[Sat Jan 11 15:43:17 2025] Durtemike begins to cast a spell.
+[Sat Jan 11 15:43:18 2025] You feel replenished.
+[Sat Jan 11 15:43:18 2025] Megachad tells the guild, 'brt'
+[Sat Jan 11 15:43:21 2025] Durtemike shrinks.
+[Sat Jan 11 15:43:23 2025] Darkfires begins to cast a spell.
+[Sat Jan 11 15:43:24 2025] You feel replenished.
+[Sat Jan 11 15:43:28 2025] Durtemike begins to cast a spell.
+[Sat Jan 11 15:43:30 2025] You feel replenished.
+[Sat Jan 11 15:43:30 2025] Darkfires begins to cast a spell.
+[Sat Jan 11 15:43:36 2025] You feel replenished.
+[Sat Jan 11 15:43:38 2025] Darkfires begins to cast a spell.
+[Sat Jan 11 15:43:42 2025] You feel replenished.
+[Sat Jan 11 15:43:45 2025] Durtemike begins to cast a spell.
+[Sat Jan 11 15:43:47 2025] Durtemike winces.
+[Sat Jan 11 15:43:48 2025] You feel replenished.
+[Sat Jan 11 15:43:50 2025] Darkfires begins to cast a spell.
+[Sat Jan 11 15:43:54 2025] You feel replenished.
+[Sat Jan 11 15:43:54 2025] Mcganahan is enveloped in a cadeau of flame.
+[Sat Jan 11 15:43:57 2025] Darkfires begins to cast a spell.
+[Sat Jan 11 15:44:00 2025] You feel replenished.
+[Sat Jan 11 15:44:02 2025] Rajo begins to cast a spell.
+[Sat Jan 11 15:44:02 2025] Oowch tells the guild, 'oowch is rdy for tag'
+[Sat Jan 11 15:44:02 2025] Blumpp begins to cast a spell.
+[Sat Jan 11 15:44:03 2025] Rajo's casting is interrupted!
+[Sat Jan 11 15:44:05 2025] Rajo begins to cast a spell.
+[Sat Jan 11 15:44:06 2025] You feel replenished.
+[Sat Jan 11 15:44:08 2025] Robosnecro tells the guild, 'need tagger asap'
+[Sat Jan 11 15:44:09 2025] Squished modulates.
+[Sat Jan 11 15:44:09 2025] Aelua begins to cast a spell.
+[Sat Jan 11 15:44:11 2025] Darkfires begins to cast a spell.
+[Sat Jan 11 15:44:12 2025] You say to your guild, 'AAA'
+[Sat Jan 11 15:44:12 2025] You feel replenished.
+[Sat Jan 11 15:44:13 2025] Rajo's image shimmers.
+[Sat Jan 11 15:44:14 2025] Squished appears to be staring into nothingness.
+[Sat Jan 11 15:44:16 2025] Squished modulates.
+[Sat Jan 11 15:44:17 2025] Aelua begins to cast a spell.
+[Sat Jan 11 15:44:18 2025] You feel replenished.
+[Sat Jan 11 15:44:19 2025] Darkfires begins to cast a spell.
+[Sat Jan 11 15:44:24 2025] You may not loot this corpse at this time.
+[Sat Jan 11 15:44:25 2025] Squished tells the guild, 'chain?'
+[Sat Jan 11 15:44:25 2025] Mcganahan tells you, 'aego please'
+[Sat Jan 11 15:44:27 2025] Darkfires begins to cast a spell.
+[Sat Jan 11 15:44:27 2025] Derakor the Vindicator shouts 'Your kind will not defile the temple of Rallos Zek!'
+[Sat Jan 11 15:44:27 2025] Derakor the Vindicator engages Robosnecro!
+[Sat Jan 11 15:44:30 2025] You say to your guild, 'make a chain'
+[Sat Jan 11 15:44:31 2025] Darkfires tells the guild, 'no chain yet'
+[Sat Jan 11 15:44:33 2025] Durtemike begins to cast a spell.
+[Sat Jan 11 15:44:36 2025] Darkfires begins to cast a spell.
+[Sat Jan 11 15:44:36 2025] You feel replenished.
+[Sat Jan 11 15:44:36 2025] You begin casting Aegolism.
+[Sat Jan 11 15:44:37 2025] Squished modulates.
+[Sat Jan 11 15:44:40 2025] Lieutenant Ayyoan begins to cast a spell.
+[Sat Jan 11 15:44:41 2025] Squished modulates.
+[Sat Jan 11 15:44:42 2025] You feel replenished.
+[Sat Jan 11 15:44:43 2025] You say to your guild, 'i got ramp'
+[Sat Jan 11 15:44:43 2025] Darkfires begins to cast a spell.
+[Sat Jan 11 15:44:45 2025] Squished modulates.
+[Sat Jan 11 15:44:46 2025] Mcganahan looks focused.
+[Sat Jan 11 15:44:48 2025] You feel replenished.
+[Sat Jan 11 15:44:48 2025] You told Mcganahan, 'you mt?'
+[Sat Jan 11 15:44:49 2025] Squished modulates.
+[Sat Jan 11 15:44:50 2025] Mcganahan's eye gleams with the power of Aegolism.
+[Sat Jan 11 15:44:51 2025] Durtemike begins to cast a spell.
+[Sat Jan 11 15:44:51 2025] Triten's spell fizzles!
+[Sat Jan 11 15:44:51 2025] Darkfires's spell fizzles!
+[Sat Jan 11 15:44:52 2025] Triten begins to cast a spell.
+[Sat Jan 11 15:44:52 2025] Darkfires begins to cast a spell.
+[Sat Jan 11 15:44:54 2025] Mcganahan tells you, 'idk yet'
+[Sat Jan 11 15:44:55 2025] Lieutenant Ayyoan beams a smile at Mubbens
+[Sat Jan 11 15:44:56 2025] Squished begins to cast a spell.
+[Sat Jan 11 15:44:56 2025] Jolimec tells the guild, 'taking 001'
+[Sat Jan 11 15:44:59 2025] Triten begins to cast a spell.
+[Sat Jan 11 15:45:00 2025] Mcganahan's body shines with riotous health.
+[Sat Jan 11 15:45:01 2025] Metran tells the guild, '002'
+[Sat Jan 11 15:45:05 2025] Durtemike begins to cast a spell.
+[Sat Jan 11 15:45:08 2025] Kobn says 'Following you, Master.'
+[Sat Jan 11 15:45:09 2025] Kobn says 'Following you, Master.'
+[Sat Jan 11 15:45:09 2025] Kobn says 'Following you, Master.'
+[Sat Jan 11 15:45:09 2025] Kobn says 'Following you, Master.'
+[Sat Jan 11 15:45:11 2025] Durtemike falls into a state of torpor.
+[Sat Jan 11 15:45:11 2025] Megachad begins to cast a spell.
+[Sat Jan 11 15:45:12 2025] Durtemike peers through a telescope.
+[Sat Jan 11 15:45:12 2025] You feel replenished.
+[Sat Jan 11 15:45:12 2025] Durtemike begins to cast a spell.
+[Sat Jan 11 15:45:12 2025] Outie has joined the group.
+[Sat Jan 11 15:45:12 2025] Delrake begins to cast a spell.
+[Sat Jan 11 15:45:14 2025] Squished modulates.
+[Sat Jan 11 15:45:14 2025] Mcganahan Scores a critical hit!(115)
+[Sat Jan 11 15:45:15 2025] Durtemike winces.
+[Sat Jan 11 15:45:15 2025] Durtemike peers through a telescope.
+[Sat Jan 11 15:45:15 2025] Aelua tells the guild, 'pst for ench buffs at vindi'
+[Sat Jan 11 15:45:16 2025] Durtemike begins to cast a spell.
+[Sat Jan 11 15:45:16 2025] You told Megachad, 'you ramp'
+[Sat Jan 11 15:45:18 2025] Squished modulates.
+[Sat Jan 11 15:45:18 2025] You feel replenished.
+[Sat Jan 11 15:45:18 2025] Durtemike winces.
+[Sat Jan 11 15:45:18 2025] Megachad shrinks.
+[Sat Jan 11 15:45:18 2025] Megachad tells you, 'ya'
+[Sat Jan 11 15:45:18 2025] Durtemike peers through a telescope.
+[Sat Jan 11 15:45:19 2025] Durtemike begins to cast a spell.
+[Sat Jan 11 15:45:19 2025] Blumpp tells the group, 'potg inc'
+[Sat Jan 11 15:45:20 2025] Squished tells the guild, '003'
+[Sat Jan 11 15:45:20 2025] Jolimec tells the guild, 'chain is at 2'
+[Sat Jan 11 15:45:21 2025] You told Megachad, 'ok'
+[Sat Jan 11 15:45:21 2025] Durtemike winces.
+[Sat Jan 11 15:45:22 2025] Megachad begins to cast a spell.
+[Sat Jan 11 15:45:22 2025] Durtemike peers through a telescope.
+[Sat Jan 11 15:45:22 2025] Durtemike begins to cast a spell.
+[Sat Jan 11 15:45:24 2025] Jolimec tells the guild, 'chain is at 3'
+[Sat Jan 11 15:45:24 2025] Aelua begins to cast a spell.
+[Sat Jan 11 15:45:24 2025] You feel replenished.
+[Sat Jan 11 15:45:25 2025] Durtemike winces.
+[Sat Jan 11 15:45:26 2025] Durtemike peers through a telescope.
+[Sat Jan 11 15:45:26 2025] Durtemike's spell fizzles!
+[Sat Jan 11 15:45:26 2025] Durtemike begins to cast a spell.
+[Sat Jan 11 15:45:29 2025] Durtemike winces.
+[Sat Jan 11 15:45:29 2025] Durtemike peers through a telescope.
+[Sat Jan 11 15:45:30 2025] Durtemike begins to cast a spell.
+[Sat Jan 11 15:45:31 2025] Micromacheen is enveloped by a swirling maelstrom.
+[Sat Jan 11 15:45:31 2025] The soft breeze fades.
+[Sat Jan 11 15:45:32 2025] Squished modulates.
+[Sat Jan 11 15:45:32 2025] Blumpp tells the guild, '004'
+[Sat Jan 11 15:45:32 2025] Durtemike winces.
+[Sat Jan 11 15:45:33 2025] Durtemike peers through a telescope.
+[Sat Jan 11 15:45:33 2025] Durtemike's spell fizzles!
+[Sat Jan 11 15:45:33 2025] Durtemike begins to cast a spell.
+[Sat Jan 11 15:45:36 2025] Durtemike winces.
+[Sat Jan 11 15:45:36 2025] You feel replenished.
+[Sat Jan 11 15:45:36 2025] Durtemike peers through a telescope.
+[Sat Jan 11 15:45:37 2025] Durtemike begins to cast a spell.
+[Sat Jan 11 15:45:38 2025] Frovo says out of character, 'send tells for PoTG'
+[Sat Jan 11 15:45:39 2025] Durtemike winces.
+[Sat Jan 11 15:45:41 2025] Darkfires begins to cast a spell.
+[Sat Jan 11 15:45:42 2025] Jolimec tells the guild, 'who is MT'
+[Sat Jan 11 15:45:46 2025] Darkfires tells the guild, 'mcgh'
+[Sat Jan 11 15:45:47 2025] You say to your guild, 'MT: Mcganahan'
+[Sat Jan 11 15:45:50 2025] Jolimec tells the guild, 'ty'
+[Sat Jan 11 15:45:50 2025] Darkfires begins to cast a spell.
+[Sat Jan 11 15:45:52 2025] Megachad tells the guild, 'MT McG, RT: Megachad'
+[Sat Jan 11 15:45:54 2025] Delrake begins to cast a spell.
+[Sat Jan 11 15:45:56 2025] Mcganahan is surrounded by a thorny barrier.
+[Sat Jan 11 15:45:56 2025] Mcganahan is blessed by the spirits of ancient Coldain heroes.
+[Sat Jan 11 15:45:59 2025] Queues begins to cast a spell.
+[Sat Jan 11 15:46:00 2025] Delrake's image shimmers.
+[Sat Jan 11 15:46:00 2025] Outie tells the group, 'need to relog'
+[Sat Jan 11 15:46:05 2025] Queues's feet leave the ground.
+[Sat Jan 11 15:46:21 2025] Darkfires begins to cast a spell.
+[Sat Jan 11 15:46:25 2025] Mcganahan is enveloped in a cadeau of flame.
+[Sat Jan 11 15:46:25 2025] Players on EverQuest:
+[Sat Jan 11 15:46:25 2025] ---------------------------
+[Sat Jan 11 15:46:25 2025] [60 Phantasmist] Aelua (High Elf) <Good Guys>
+[Sat Jan 11 15:46:25 2025] There is 1 player in Kael Drakkal.
+[Sat Jan 11 15:46:26 2025] Outie has left the group.
+[Sat Jan 11 15:46:28 2025] Blumpp begins to cast a spell.
+[Sat Jan 11 15:46:28 2025] Blumpp shouts, 'GG 004 CH -- Mcganahan'
+[Sat Jan 11 15:46:29 2025] Blumpp's casting is interrupted!
+[Sat Jan 11 15:46:30 2025] You feel replenished.
+[Sat Jan 11 15:46:31 2025] You told aelua, 'c pls'
+[Sat Jan 11 15:46:32 2025] The grim aura fades.
+[Sat Jan 11 15:46:32 2025] A dull aura covers your hand.
+[Sat Jan 11 15:46:35 2025] Jolimec begins to cast a spell.
+[Sat Jan 11 15:46:35 2025] Jolimec shouts, 'GG 005 CH -- Mcganahan'
+[Sat Jan 11 15:46:36 2025] Aelua begins to cast a spell.
+[Sat Jan 11 15:46:36 2025] Jolimec's casting is interrupted!
+[Sat Jan 11 15:46:39 2025] Triten begins to cast a spell.
+[Sat Jan 11 15:46:39 2025] A soft breeze slips through your mind.
+[Sat Jan 11 15:46:44 2025] Darkfires tells the guild, 'yall ate the rods already?!'
+[Sat Jan 11 15:46:45 2025] Durtemike begins to cast a spell.
+[Sat Jan 11 15:46:48 2025] Darkfires begins to cast a spell.
+[Sat Jan 11 15:46:49 2025] Jolimec begins to cast a spell.
+[Sat Jan 11 15:46:49 2025] Jolimec shouts, 'GG 001 CH -- Mcganahan'
+[Sat Jan 11 15:46:50 2025] Jolimec's casting is interrupted!
+[Sat Jan 11 15:46:51 2025] Triten begins to cast a spell.
+[Sat Jan 11 15:46:53 2025] Metran begins to cast a spell.
+[Sat Jan 11 15:46:53 2025] Metran shouts, 'GG 002 CH -- Mcganahan'
+[Sat Jan 11 15:46:53 2025] You say to your guild, '!startchain'
+[Sat Jan 11 15:46:54 2025] Kobn goes berserk.
+[Sat Jan 11 15:46:54 2025] You say to your guild, '!chainspeed 4'
+[Sat Jan 11 15:46:54 2025] Outie tells the guild, 'what is chain up to'
+[Sat Jan 11 15:46:56 2025] Kelce begins to cast a spell.
+[Sat Jan 11 15:46:59 2025] Triten begins to cast a spell.
+[Sat Jan 11 15:46:59 2025] Mcganahan begins to cast a spell.
+[Sat Jan 11 15:46:59 2025] Jolimec tells the guild, 'chain at 4'
+[Sat Jan 11 15:47:00 2025] Kelce's image shimmers.
+[Sat Jan 11 15:47:00 2025] Squished begins to cast a spell.
+[Sat Jan 11 15:47:01 2025] Squished shouts, 'GG 003 CH -- Mcganahan'
+[Sat Jan 11 15:47:01 2025] Jolimec begins to cast a spell.
+[Sat Jan 11 15:47:02 2025] Jolimec shouts, 'GG 001 CH -- Mcganahan'
+[Sat Jan 11 15:47:02 2025] Metran's casting is interrupted!
+[Sat Jan 11 15:47:04 2025] Metran begins to cast a spell.
+[Sat Jan 11 15:47:04 2025] Metran shouts, 'GG 002 CH -- Mcganahan'
+[Sat Jan 11 15:47:04 2025] You say, 'CE -- Megachad'
+[Sat Jan 11 15:47:05 2025] You can't use that command while casting...
+[Sat Jan 11 15:47:05 2025] Durtemike begins to cast a spell.
+[Sat Jan 11 15:47:05 2025] You begin casting Celestial Elixir.
+[Sat Jan 11 15:47:05 2025] Crankin's skin shimmers.
+[Sat Jan 11 15:47:05 2025] Blumpp's skin shimmers.
+[Sat Jan 11 15:47:05 2025] Your skin returns to normal.
+[Sat Jan 11 15:47:05 2025] Your skin shimmers.
+[Sat Jan 11 15:47:05 2025] Metran's skin shimmers.
+[Sat Jan 11 15:47:05 2025] Jolimec's skin shimmers.
+[Sat Jan 11 15:47:05 2025] Triten's skin shimmers.
+[Sat Jan 11 15:47:05 2025] You can't use that command while casting...
+[Sat Jan 11 15:47:06 2025] You feel replenished.
+[Sat Jan 11 15:47:07 2025] Mcganahan begins to cast a spell.
+[Sat Jan 11 15:47:07 2025] Robosnecro tells the guild, 'holding guards for now'
+[Sat Jan 11 15:47:08 2025] You say to your guild, 'i am aaa'
+[Sat Jan 11 15:47:08 2025] Megachad assumes a defensive fighting style.
+[Sat Jan 11 15:47:09 2025] Megachad's body is covered with a soft glow.
+[Sat Jan 11 15:47:09 2025] Mcganahan's casting is interrupted!
+[Sat Jan 11 15:47:09 2025] You have healed Megachad for 300 points of damage.
+[Sat Jan 11 15:47:09 2025] Durtemike's casting is interrupted!
+[Sat Jan 11 15:47:10 2025] Derakor the Vindicator was burned.
+[Sat Jan 11 15:47:10 2025] Derakor the Vindicator was burned.
+[Sat Jan 11 15:47:10 2025] Derakor the Vindicator goes on a RAMPAGE!
+[Sat Jan 11 15:47:10 2025] Derakor the Vindicator was pierced by thorns.
+[Sat Jan 11 15:47:10 2025] Derakor the Vindicator hits Oowch for 594 points of damage.
+[Sat Jan 11 15:47:10 2025] Derakor the Vindicator tries to hit Oowch, but misses!
+[Sat Jan 11 15:47:10 2025] Derakor the Vindicator was pierced by thorns.
+[Sat Jan 11 15:47:10 2025] Derakor the Vindicator hits Oowch for 200 points of damage.
+[Sat Jan 11 15:47:10 2025] Derakor the Vindicator was burned.
+[Sat Jan 11 15:47:10 2025] Durtemike begins to cast a spell.
+[Sat Jan 11 15:47:11 2025] You say out of character, 'GG RCH AAA -- Megachad'
+[Sat Jan 11 15:47:11 2025] Derakor the Vindicator was burned.
+[Sat Jan 11 15:47:11 2025] Derakor the Vindicator goes on a RAMPAGE!
+[Sat Jan 11 15:47:11 2025] Derakor the Vindicator was pierced by thorns.
+[Sat Jan 11 15:47:11 2025] Derakor the Vindicator hits Oowch for 331 points of damage.
+[Sat Jan 11 15:47:11 2025] Derakor the Vindicator tries to hit Oowch, but misses!
+[Sat Jan 11 15:47:11 2025] Derakor the Vindicator tries to hit Oowch, but misses!
+[Sat Jan 11 15:47:11 2025] Derakor the Vindicator was pierced by thorns.
+[Sat Jan 11 15:47:11 2025] Derakor the Vindicator hits Oowch for 700 points of damage.
+[Sat Jan 11 15:47:11 2025] You haven't recovered yet...
+[Sat Jan 11 15:47:12 2025] You can't use that command while casting...
+[Sat Jan 11 15:47:12 2025] Mcganahan slashes Derakor the Vindicator for 12 points of damage.
+[Sat Jan 11 15:47:12 2025] Mcganahan tries to slash Derakor the Vindicator, but Derakor the Vindicator parries!
+[Sat Jan 11 15:47:12 2025] Mcganahan pierces Derakor the Vindicator for 13 points of damage.
+[Sat Jan 11 15:47:12 2025] Mcganahan pierces Derakor the Vindicator for 38 points of damage.
+[Sat Jan 11 15:47:12 2025] Delrake tries to crush Derakor the Vindicator, but misses!
+[Sat Jan 11 15:47:12 2025] Delrake crushes Derakor the Vindicator for 146 points of damage.
+[Sat Jan 11 15:47:12 2025] You begin casting Complete Healing.
+[Sat Jan 11 15:47:12 2025] You feel replenished.
+[Sat Jan 11 15:47:12 2025] Derakor the Vindicator was burned.
+[Sat Jan 11 15:47:12 2025] Derakor the Vindicator hits Mcganahan for 450 points of damage.
+[Sat Jan 11 15:47:12 2025] Squished shouts, 'GG 003 CH -- Mcganahan'
+[Sat Jan 11 15:47:13 2025] Delrake kicks Derakor the Vindicator for 148 points of damage.
+[Sat Jan 11 15:47:13 2025] Mcganahan pierces Derakor the Vindicator for 13 points of damage.
+[Sat Jan 11 15:47:13 2025] Mcganahan pierces Derakor the Vindicator for 4 points of damage.
+[Sat Jan 11 15:47:13 2025] Mcganahan slashes Derakor the Vindicator for 28 points of damage.
+[Sat Jan 11 15:47:14 2025] Squished begins to cast a spell.
+[Sat Jan 11 15:47:14 2025] Mcganahan slashes Derakor the Vindicator for 59 points of damage.
+[Sat Jan 11 15:47:14 2025] Derakor the Vindicator goes on a RAMPAGE!
+[Sat Jan 11 15:47:14 2025] Derakor the Vindicator was pierced by thorns.
+[Sat Jan 11 15:47:14 2025] Derakor the Vindicator hits Megachad for 450 points of damage.
+[Sat Jan 11 15:47:14 2025] Derakor the Vindicator was pierced by thorns.
+[Sat Jan 11 15:47:14 2025] Derakor the Vindicator hits Megachad for 213 points of damage.
+[Sat Jan 11 15:47:14 2025] Derakor the Vindicator tries to hit Megachad, but misses!
+[Sat Jan 11 15:47:14 2025] Delrake crushes Derakor the Vindicator for 176 points of damage.
+[Sat Jan 11 15:47:14 2025] Delrake crushes Derakor the Vindicator for 63 points of damage.
+[Sat Jan 11 15:47:14 2025] Mcganahan tries to kick Derakor the Vindicator, but misses!
+[Sat Jan 11 15:47:14 2025] Mcganahan slashes Derakor the Vindicator for 21 points of damage.
+[Sat Jan 11 15:47:14 2025] Mubbens tries to slash Derakor the Vindicator, but misses!
+[Sat Jan 11 15:47:15 2025] Outie has joined the group.
+[Sat Jan 11 15:47:15 2025] Megachad slashes Derakor the Vindicator for 42 points of damage.
+[Sat Jan 11 15:47:15 2025] Derakor the Vindicator was burned.
+[Sat Jan 11 15:47:15 2025] Mcganahan pierces Derakor the Vindicator for 10 points of damage.
+[Sat Jan 11 15:47:15 2025] Mcganahan tries to pierce Derakor the Vindicator, but misses!
+[Sat Jan 11 15:47:15 2025] You have healed Megachad for 300 points of damage.
+[Sat Jan 11 15:47:15 2025] Vezpah begins to cast a spell.
+[Sat Jan 11 15:47:15 2025] Mcganahan tries to slash Derakor the Vindicator, but misses!
+[Sat Jan 11 15:47:15 2025] Mcganahan slashes Derakor the Vindicator for 33 points of damage.
+[Sat Jan 11 15:47:16 2025] Atouk tries to slash Derakor the Vindicator, but misses!
+[Sat Jan 11 15:47:16 2025] Atouk tries to slash Derakor the Vindicator, but misses!
+[Sat Jan 11 15:47:16 2025] Mcganahan tries to pierce Derakor the Vindicator, but Derakor the Vindicator dodges!
+[Sat Jan 11 15:47:16 2025] Mcganahan tries to pierce Derakor the Vindicator, but misses!
+[Sat Jan 11 15:47:16 2025] Delrake crushes Derakor the Vindicator for 103 points of damage.
+[Sat Jan 11 15:47:16 2025] Delrake crushes Derakor the Vindicator for 51 points of damage.
+[Sat Jan 11 15:47:16 2025] Megachad falls into a state of torpor.
+[Sat Jan 11 15:47:16 2025] Mcganahan tries to slash Derakor the Vindicator, but misses!
+[Sat Jan 11 15:47:16 2025] Derakor the Vindicator goes on a RAMPAGE!
+[Sat Jan 11 15:47:16 2025] Derakor the Vindicator was pierced by thorns.
+[Sat Jan 11 15:47:16 2025] Derakor the Vindicator hits Megachad for 450 points of damage.
+[Sat Jan 11 15:47:16 2025] Derakor the Vindicator tries to hit Megachad, but misses!
+[Sat Jan 11 15:47:16 2025] Derakor the Vindicator tries to hit Megachad, but misses!
+[Sat Jan 11 15:47:16 2025] Derakor the Vindicator was burned.
+[Sat Jan 11 15:47:17 2025] Mcganahan tries to slash Derakor the Vindicator, but misses!
+[Sat Jan 11 15:47:17 2025] Mcganahan slashes Derakor the Vindicator for 19 points of damage.
+[Sat Jan 11 15:47:17 2025] Atouk slashes Derakor the Vindicator for 22 points of damage.
+[Sat Jan 11 15:47:17 2025] Atouk slashes Derakor the Vindicator for 64 points of damage.
+[Sat Jan 11 15:47:17 2025] Atouk slashes Derakor the Vindicator for 61 points of damage.
+[Sat Jan 11 15:47:17 2025] Jolimec begins to cast a spell.
+[Sat Jan 11 15:47:17 2025] Megachad slashes Derakor the Vindicator for 73 points of damage.
+[Sat Jan 11 15:47:17 2025] Megachad slashes Derakor the Vindicator for 42 points of damage.
+[Sat Jan 11 15:47:17 2025] Megachad slashes Derakor the Vindicator for 69 points of damage.
+[Sat Jan 11 15:47:17 2025] Jolimec shouts, 'GG 001 CH -- Mcganahan'
+[Sat Jan 11 15:47:17 2025] Mcganahan pierces Derakor the Vindicator for 21 points of damage.
+[Sat Jan 11 15:47:17 2025] Mcganahan tries to pierce Derakor the Vindicator, but misses!
+[Sat Jan 11 15:47:18 2025] Delrake kicks Derakor the Vindicator for 44 points of damage.
+[Sat Jan 11 15:47:18 2025] Derakor the Vindicator was burned.
+[Sat Jan 11 15:47:18 2025] Derakor the Vindicator was burned.
+[Sat Jan 11 15:47:18 2025] Derakor the Vindicator was burned.
+[Sat Jan 11 15:47:18 2025] Derakor the Vindicator was burned.
+[Sat Jan 11 15:47:18 2025] Derakor the Vindicator goes on a RAMPAGE!
+[Sat Jan 11 15:47:18 2025] Derakor the Vindicator tries to hit Megachad, but misses!
+[Sat Jan 11 15:47:18 2025] Derakor the Vindicator was pierced by thorns.
+[Sat Jan 11 15:47:18 2025] Derakor the Vindicator hits Megachad for 213 points of damage.
+[Sat Jan 11 15:47:18 2025] Derakor the Vindicator tries to hit Megachad, but Megachad parries!
+[Sat Jan 11 15:47:18 2025] Mubbens Scores a critical hit!(171)
+[Sat Jan 11 15:47:18 2025] Mubbens slashes Derakor the Vindicator for 198 points of damage.
+[Sat Jan 11 15:47:18 2025] Atouk tries to slash Derakor the Vindicator, but misses!
+[Sat Jan 11 15:47:18 2025] Atouk slashes Derakor the Vindicator for 50 points of damage.
+[Sat Jan 11 15:47:18 2025] Atouk slashes Derakor the Vindicator for 31 points of damage.
+[Sat Jan 11 15:47:18 2025] Atouk slashes Derakor the Vindicator for 23 points of damage.
+[Sat Jan 11 15:47:18 2025] Mcganahan tries to slash Derakor the Vindicator, but misses!
+[Sat Jan 11 15:47:18 2025] Mcganahan kicks Derakor the Vindicator for 12 points of damage.
+[Sat Jan 11 15:47:18 2025] You feel replenished.
+[Sat Jan 11 15:47:18 2025] Krakish kicks Derakor the Vindicator for 42 points of damage.
+[Sat Jan 11 15:47:18 2025] Mcganahan pierces Derakor the Vindicator for 15 points of damage.
+[Sat Jan 11 15:47:18 2025] Mcganahan pierces Derakor the Vindicator for 27 points of damage.
+[Sat Jan 11 15:47:18 2025] Delrake crushes Derakor the Vindicator for 140 points of damage.
+[Sat Jan 11 15:47:18 2025] Delrake tries to crush Derakor the Vindicator, but misses!
+[Sat Jan 11 15:47:19 2025] Atouk slashes Derakor the Vindicator for 15 points of damage.
+[Sat Jan 11 15:47:19 2025] Atouk slashes Derakor the Vindicator for 1 point of damage.
+[Sat Jan 11 15:47:19 2025] Atouk slashes Derakor the Vindicator for 24 points of damage.
+[Sat Jan 11 15:47:19 2025] Atouk slashes Derakor the Vindicator for 37 points of damage.
+[Sat Jan 11 15:47:19 2025] Derakor the Vindicator was burned.
+[Sat Jan 11 15:47:19 2025] Derakor the Vindicator was burned.
+[Sat Jan 11 15:47:19 2025] Mcganahan tries to slash Derakor the Vindicator, but misses!
+[Sat Jan 11 15:47:19 2025] Durtemike begins to cast a spell.
+[Sat Jan 11 15:47:20 2025] Mcganahan pierces Derakor the Vindicator for 33 points of damage.
+[Sat Jan 11 15:47:20 2025] Atouk slashes Derakor the Vindicator for 12 points of damage.
+[Sat Jan 11 15:47:20 2025] Atouk slashes Derakor the Vindicator for 1 point of damage.
+[Sat Jan 11 15:47:20 2025] Atouk has been infused with the power of an Avatar.
+[Sat Jan 11 15:47:20 2025] Atouk slashes Derakor the Vindicator for 32 points of damage.
+[Sat Jan 11 15:47:20 2025] Atouk tries to slash Derakor the Vindicator, but misses!
+[Sat Jan 11 15:47:20 2025] Atouk slashes Derakor the Vindicator for 81 points of damage.
+[Sat Jan 11 15:47:20 2025] Aelua begins to cast a spell.
+[Sat Jan 11 15:47:20 2025] Ggin crushes Derakor the Vindicator for 185 points of damage.
+[Sat Jan 11 15:47:20 2025] Ggin crushes Derakor the Vindicator for 47 points of damage.
+[Sat Jan 11 15:47:20 2025] Ggin tries to crush Derakor the Vindicator, but misses!
+[Sat Jan 11 15:47:20 2025] Derakor the Vindicator was burned.
+[Sat Jan 11 15:47:20 2025] Derakor the Vindicator was burned.
+[Sat Jan 11 15:47:20 2025] Derakor the Vindicator goes on a RAMPAGE!
+[Sat Jan 11 15:47:20 2025] Derakor the Vindicator tries to hit Megachad, but misses!
+[Sat Jan 11 15:47:20 2025] Derakor the Vindicator was pierced by thorns.
+[Sat Jan 11 15:47:20 2025] Derakor the Vindicator hits Megachad for 423 points of damage.
+[Sat Jan 11 15:47:20 2025] Derakor the Vindicator tries to hit Megachad, but misses!
+[Sat Jan 11 15:47:20 2025] Derakor the Vindicator was pierced by thorns.
+[Sat Jan 11 15:47:20 2025] Derakor the Vindicator hits Megachad for 265 points of damage.
+[Sat Jan 11 15:47:20 2025] Mcganahan tries to slash Derakor the Vindicator, but misses!
+[Sat Jan 11 15:47:20 2025] Mcganahan slashes Derakor the Vindicator for 48 points of damage.
+[Sat Jan 11 15:47:20 2025] Derakor the Vindicator was burned.
+[Sat Jan 11 15:47:20 2025] Ggin tries to kick Derakor the Vindicator, but misses!
+[Sat Jan 11 15:47:21 2025] Atouk beams a smile at Derakor the Vindicator
+[Sat Jan 11 15:47:21 2025] Atouk says 'Ahhh, I feel much better now...'
+[Sat Jan 11 15:47:21 2025] Derakor the Vindicator staggers.
+[Sat Jan 11 15:47:21 2025] Atouk tries to slash Derakor the Vindicator, but misses!
+[Sat Jan 11 15:47:21 2025] Darkfires begins to cast a spell.
+[Sat Jan 11 15:47:21 2025] Delrake tries to crush Derakor the Vindicator, but misses!
+[Sat Jan 11 15:47:21 2025] Atouk tries to slash Derakor the Vindicator, but misses!
+[Sat Jan 11 15:47:21 2025] Mubbens slashes Derakor the Vindicator for 173 points of damage.
+[Sat Jan 11 15:47:21 2025] Mubbens tries to slash Derakor the Vindicator, but misses!
+[Sat Jan 11 15:47:21 2025] Megachad Scores a critical hit!(85)
+[Sat Jan 11 15:47:21 2025] Megachad slashes Derakor the Vindicator for 122 points of damage.
+[Sat Jan 11 15:47:21 2025] Metran begins to cast a spell.
+[Sat Jan 11 15:47:21 2025] Vezpah's casting is interrupted!
+[Sat Jan 11 15:47:22 2025] Metran shouts, 'GG 002 CH -- Mcganahan'
+[Sat Jan 11 15:47:22 2025] Ricks's hand is covered with a dull aura.
+[Sat Jan 11 15:47:22 2025] Derakor the Vindicator was burned.
+[Sat Jan 11 15:47:22 2025] Derakor the Vindicator was burned.
+[Sat Jan 11 15:47:22 2025] Atouk tries to slash Derakor the Vindicator, but misses!
+[Sat Jan 11 15:47:22 2025] Mcganahan goes into a berserker frenzy!
+[Sat Jan 11 15:47:22 2025] You have healed Megachad for 1509 points of damage.
+[Sat Jan 11 15:47:22 2025] Megachad is completely healed.
+[Sat Jan 11 15:47:22 2025] Atouk tries to slash Derakor the Vindicator, but misses!
+[Sat Jan 11 15:47:22 2025] Atouk slashes Derakor the Vindicator for 36 points of damage.
+[Sat Jan 11 15:47:22 2025] Krakish tries to crush Derakor the Vindicator, but misses!
+[Sat Jan 11 15:47:22 2025] Krakish crushes Derakor the Vindicator for 20 points of damage.
+[Sat Jan 11 15:47:22 2025] Krakish crushes Derakor the Vindicator for 25 points of damage.
+[Sat Jan 11 15:47:22 2025] Ggin tries to crush Derakor the Vindicator, but misses!
+[Sat Jan 11 15:47:22 2025] Ggin crushes Derakor the Vindicator for 235 points of damage.
+[Sat Jan 11 15:47:22 2025] Delrake tries to kick Derakor the Vindicator, but misses!
+[Sat Jan 11 15:47:22 2025] Mcganahan slashes Derakor the Vindicator for 15 points of damage.
+[Sat Jan 11 15:47:22 2025] Mcganahan tries to slash Derakor the Vindicator, but misses!
+[Sat Jan 11 15:47:23 2025] Mcganahan kicks Derakor the Vindicator for 4 points of damage.
+[Sat Jan 11 15:47:23 2025] Atouk slashes Derakor the Vindicator for 25 points of damage.
+[Sat Jan 11 15:47:23 2025] Atouk slashes Derakor the Vindicator for 1 point of damage.
+[Sat Jan 11 15:47:23 2025] Atouk tries to slash Derakor the Vindicator, but misses!
+[Sat Jan 11 15:47:23 2025] Atouk tries to slash Derakor the Vindicator, but misses!
+[Sat Jan 11 15:47:23 2025] Derakor the Vindicator was burned.
+[Sat Jan 11 15:47:23 2025] Krakish crushes Derakor the Vindicator for 54 points of damage.
+[Sat Jan 11 15:47:23 2025] Delrake has fallen to the ground.
+[Sat Jan 11 15:47:23 2025] Krakish tries to crush Derakor the Vindicator, but misses!
+[Sat Jan 11 15:47:23 2025] Krakish crushes Derakor the Vindicator for 29 points of damage.
+[Sat Jan 11 15:47:23 2025] Vezpah begins to cast a spell.
+[Sat Jan 11 15:47:23 2025] Delrake crushes Derakor the Vindicator for 42 points of damage.
+[Sat Jan 11 15:47:23 2025] Delrake crushes Derakor the Vindicator for 102 points of damage.
+[Sat Jan 11 15:47:23 2025] Outie tells the guild, 'Ill take 004 then'
+[Sat Jan 11 15:47:23 2025] Ricks looks very tranquil.
+[Sat Jan 11 15:47:23 2025] Mcganahan pierces Derakor the Vindicator for 12 points of damage.
+[Sat Jan 11 15:47:24 2025] Atouk slashes Derakor the Vindicator for 14 points of damage.
+[Sat Jan 11 15:47:24 2025] Atouk slashes Derakor the Vindicator for 43 points of damage.
+[Sat Jan 11 15:47:24 2025] Mcganahan slashes Derakor the Vindicator for 38 points of damage.
+[Sat Jan 11 15:47:24 2025] Mcganahan tries to slash Derakor the Vindicator, but misses!
+[Sat Jan 11 15:47:24 2025] Mcganahan is no longer berserk.
+[Sat Jan 11 15:47:24 2025] Atouk slashes Derakor the Vindicator for 12 points of damage.
+[Sat Jan 11 15:47:24 2025] Atouk slashes Derakor the Vindicator for 36 points of damage.
+[Sat Jan 11 15:47:24 2025] Atouk slashes Derakor the Vindicator for 12 points of damage.
+[Sat Jan 11 15:47:24 2025] Krakish tries to crush Derakor the Vindicator, but misses!
+[Sat Jan 11 15:47:24 2025] Krakish crushes Derakor the Vindicator for 55 points of damage.
+[Sat Jan 11 15:47:24 2025] Krakish crushes Derakor the Vindicator for 28 points of damage.
+[Sat Jan 11 15:47:24 2025] Derakor the Vindicator was burned.
+[Sat Jan 11 15:47:24 2025] Derakor the Vindicator was burned.
+[Sat Jan 11 15:47:24 2025] Derakor the Vindicator goes on a RAMPAGE!
+[Sat Jan 11 15:47:24 2025] Derakor the Vindicator tries to hit Megachad, but misses!
+[Sat Jan 11 15:47:24 2025] Derakor the Vindicator was pierced by thorns.
+[Sat Jan 11 15:47:24 2025] Derakor the Vindicator hits Megachad for 450 points of damage.
+[Sat Jan 11 15:47:24 2025] Derakor the Vindicator was pierced by thorns.
+[Sat Jan 11 15:47:24 2025] Derakor the Vindicator hits Megachad for 450 points of damage.
+[Sat Jan 11 15:47:24 2025] You say out of character, 'GG RCH AAA -- Megachad'
+[Sat Jan 11 15:47:24 2025] Derakor the Vindicator was burned.
+[Sat Jan 11 15:47:24 2025] You feel replenished.
+[Sat Jan 11 15:47:24 2025] Mubbens slashes Derakor the Vindicator for 54 points of damage.
+[Sat Jan 11 15:47:24 2025] Ggin crushes Derakor the Vindicator for 42 points of damage.
+[Sat Jan 11 15:47:24 2025] Ggin crushes Derakor the Vindicator for 109 points of damage.
+[Sat Jan 11 15:47:25 2025] You can't use that command while casting...
+[Sat Jan 11 15:47:25 2025] Krakish kicks Derakor the Vindicator for 49 points of damage.
+[Sat Jan 11 15:47:25 2025] You begin casting Complete Healing.
+[Sat Jan 11 15:47:25 2025] Krakish crushes Derakor the Vindicator for 9 points of damage.
+[Sat Jan 11 15:47:25 2025] Krakish crushes Derakor the Vindicator for 12 points of damage.
+[Sat Jan 11 15:47:25 2025] Kelce pierces Derakor the Vindicator for 82 points of damage.
+[Sat Jan 11 15:47:25 2025] Kelce pierces Derakor the Vindicator for 32 points of damage.
+[Sat Jan 11 15:47:25 2025] Kelce pierces Derakor the Vindicator for 2 points of damage.
+[Sat Jan 11 15:47:25 2025] Atouk slashes Derakor the Vindicator for 43 points of damage.
+[Sat Jan 11 15:47:25 2025] Atouk tries to slash Derakor the Vindicator, but misses!
+[Sat Jan 11 15:47:25 2025] Rajo tries to pierce Derakor the Vindicator, but misses!
+[Sat Jan 11 15:47:25 2025] Rajo pierces Derakor the Vindicator for 51 points of damage.
+[Sat Jan 11 15:47:25 2025] Rajo tries to pierce Derakor the Vindicator, but misses!
+[Sat Jan 11 15:47:25 2025] You can't use that command while casting...
+[Sat Jan 11 15:47:25 2025] Megachad slashes Derakor the Vindicator for 51 points of damage.
+[Sat Jan 11 15:47:25 2025] Megachad slashes Derakor the Vindicator for 100 points of damage.
+[Sat Jan 11 15:47:25 2025] Krakish crushes Derakor the Vindicator for 31 points of damage.
+[Sat Jan 11 15:47:25 2025] Megachad is enveloped in a cadeau of flame.
+[Sat Jan 11 15:47:25 2025] Ggin kicks Derakor the Vindicator for 66 points of damage.
+[Sat Jan 11 15:47:25 2025] Delrake crushes Derakor the Vindicator for 42 points of damage.
+[Sat Jan 11 15:47:25 2025] Delrake crushes Derakor the Vindicator for 245 points of damage.
+[Sat Jan 11 15:47:25 2025] Atouk tries to slash Derakor the Vindicator, but misses!
+[Sat Jan 11 15:47:26 2025] Derakor the Vindicator was burned.
+[Sat Jan 11 15:47:26 2025] Derakor the Vindicator was burned.
+[Sat Jan 11 15:47:26 2025] Rajo backstabs Derakor the Vindicator for 399 points of damage.
+[Sat Jan 11 15:47:26 2025] Krakish crushes Derakor the Vindicator for 30 points of damage.
+[Sat Jan 11 15:47:26 2025] Rajo tries to pierce Derakor the Vindicator, but misses!
+[Sat Jan 11 15:47:26 2025] Rajo tries to pierce Derakor the Vindicator, but misses!
+[Sat Jan 11 15:47:26 2025] Kelce pierces Derakor the Vindicator for 16 points of damage.
+[Sat Jan 11 15:47:26 2025] Kelce pierces Derakor the Vindicator for 83 points of damage.
+[Sat Jan 11 15:47:26 2025] Atouk slashes Derakor the Vindicator for 45 points of damage.
+[Sat Jan 11 15:47:26 2025] Atouk tries to slash Derakor the Vindicator, but misses!
+[Sat Jan 11 15:47:26 2025] Billett crushes Derakor the Vindicator for 151 points of damage.
+[Sat Jan 11 15:47:27 2025] Derakor the Vindicator goes on a RAMPAGE!
+[Sat Jan 11 15:47:27 2025] Derakor the Vindicator hits Megachad for 252 points of damage.
+[Sat Jan 11 15:47:27 2025] Derakor the Vindicator hits Megachad for 450 points of damage.
+[Sat Jan 11 15:47:27 2025] Derakor the Vindicator hits Megachad for 305 points of damage.
+[Sat Jan 11 15:47:27 2025] Derakor the Vindicator hits Megachad for 450 points of damage.
+[Sat Jan 11 15:47:27 2025] Blumpp begins to cast a spell.
+[Sat Jan 11 15:47:27 2025] Squished begins to cast a spell.
+[Sat Jan 11 15:47:27 2025] Blumpp shouts, 'GG 004 CH -- Mcganahan'
+[Sat Jan 11 15:47:27 2025] Squished shouts, 'GG 003 CH -- Mcganahan'
+[Sat Jan 11 15:47:28 2025] Mubbens Scores a critical hit!(170)
+[Sat Jan 11 15:47:30 2025] You feel replenished.
+[Sat Jan 11 15:47:32 2025] Blumpp's casting is interrupted!
+[Sat Jan 11 15:47:32 2025] Megachad looks focused.
+[Sat Jan 11 15:47:32 2025] Outie begins to cast a spell.
+[Sat Jan 11 15:47:32 2025] Outie shouts, 'GG 003 CH -- Mcganahan'
+[Sat Jan 11 15:47:33 2025] Megachad has been infused with the power of an Avatar.
+[Sat Jan 11 15:47:33 2025] Derakor the Vindicator goes on a RAMPAGE!
+[Sat Jan 11 15:47:33 2025] Derakor the Vindicator tries to hit Megachad, but misses!
+[Sat Jan 11 15:47:33 2025] Derakor the Vindicator hits Megachad for 239 points of damage.
+[Sat Jan 11 15:47:33 2025] Derakor the Vindicator hits Megachad for 305 points of damage.
+[Sat Jan 11 15:47:33 2025] Derakor the Vindicator tries to hit Megachad, but misses!
+[Sat Jan 11 15:47:35 2025] You have healed Megachad for 2265 points of damage.
+[Sat Jan 11 15:47:35 2025] Megachad is completely healed.
+[Sat Jan 11 15:47:35 2025] Blumpp begins to cast a spell.
+[Sat Jan 11 15:47:35 2025] Blumpp shouts, 'GG 004 CH -- Mcganahan'
+[Sat Jan 11 15:47:36 2025] Jolimec begins to cast a spell.
+[Sat Jan 11 15:47:36 2025] You say, 'CE -- Megachad'
+[Sat Jan 11 15:47:36 2025] Jolimec shouts, 'GG 001 CH -- Mcganahan'
+[Sat Jan 11 15:47:36 2025] You haven't recovered yet...
+[Sat Jan 11 15:47:36 2025] Derakor the Vindicator goes on a RAMPAGE!
+[Sat Jan 11 15:47:36 2025] Derakor the Vindicator hits Megachad for 450 points of damage.
+[Sat Jan 11 15:47:36 2025] Derakor the Vindicator tries to hit Megachad, but misses!
+[Sat Jan 11 15:47:36 2025] You haven't recovered yet...
+[Sat Jan 11 15:47:36 2025] You feel replenished.
+[Sat Jan 11 15:47:36 2025] You haven't recovered yet...
+[Sat Jan 11 15:47:36 2025] Delrake has been infused with the power of an Avatar.
+[Sat Jan 11 15:47:37 2025] You say, 'CE -- Megachad'
+[Sat Jan 11 15:47:37 2025] Durtemike begins to cast a spell.
+[Sat Jan 11 15:47:37 2025] You haven't recovered yet...
+[Sat Jan 11 15:47:37 2025] Squished's casting is interrupted!
+[Sat Jan 11 15:47:37 2025] You haven't recovered yet...
+[Sat Jan 11 15:47:38 2025] You begin casting Celestial Elixir.
+[Sat Jan 11 15:47:38 2025] Vezpah begins to cast a spell.
+[Sat Jan 11 15:47:38 2025] You can't use that command right now...
+[Sat Jan 11 15:47:39 2025] Mcganahan goes into a berserker frenzy!
+[Sat Jan 11 15:47:39 2025] Squished begins to cast a spell.
+[Sat Jan 11 15:47:39 2025] Metran begins to cast a spell.
+[Sat Jan 11 15:47:40 2025] Metran shouts, 'GG 002 CH -- Mcganahan'
+[Sat Jan 11 15:47:40 2025] Derakor the Vindicator goes on a RAMPAGE!
+[Sat Jan 11 15:47:40 2025] Derakor the Vindicator hits Megachad for 318 points of damage.
+[Sat Jan 11 15:47:41 2025] Megachad is blasted with chlorophyll.
+[Sat Jan 11 15:47:41 2025] Megachad has been infused with the power of an Avatar.
+[Sat Jan 11 15:47:41 2025] Aelua begins to cast a spell.
+[Sat Jan 11 15:47:42 2025] Megachad's body is covered with a soft glow.
+[Sat Jan 11 15:47:42 2025] Laraus begins to cast a spell.
+[Sat Jan 11 15:47:42 2025] Ggin has been infused with the power of an Avatar.
+[Sat Jan 11 15:47:42 2025] Mcganahan is no longer berserk.
+[Sat Jan 11 15:47:42 2025] You feel replenished.
+[Sat Jan 11 15:47:43 2025] Laraus's casting is interrupted!
+[Sat Jan 11 15:47:43 2025] Mcganahan Scores a critical hit!(32)
+[Sat Jan 11 15:47:44 2025] Laraus begins to cast a spell.
+[Sat Jan 11 15:47:44 2025] Atouk Scores a critical hit!(42)
+[Sat Jan 11 15:47:44 2025] Derakor the Vindicator goes on a RAMPAGE!
+[Sat Jan 11 15:47:44 2025] Derakor the Vindicator hits Megachad for 397 points of damage.
+[Sat Jan 11 15:47:44 2025] Derakor the Vindicator tries to hit Megachad, but Megachad parries!
+[Sat Jan 11 15:47:45 2025] Squished shouts, 'GG 003 CH -- Mcganahan'
+[Sat Jan 11 15:47:45 2025] Squished begins to cast a spell.
+[Sat Jan 11 15:47:45 2025] Laraus's casting is interrupted!
+[Sat Jan 11 15:47:45 2025] You say out of character, 'GG RCH AAA -- Megachad'
+[Sat Jan 11 15:47:45 2025] You have healed Megachad for 300 points of damage.
+[Sat Jan 11 15:47:46 2025] You can't use that command while casting...
+[Sat Jan 11 15:47:46 2025] You begin casting Complete Healing.
+[Sat Jan 11 15:47:46 2025] You can't use that command while casting...
+[Sat Jan 11 15:47:46 2025] Mubbens Scores a critical hit!(30)
+[Sat Jan 11 15:47:46 2025] Durtemike begins to cast a spell.
+[Sat Jan 11 15:47:47 2025] Kelce experiences visions of grandeur.
+[Sat Jan 11 15:47:48 2025] You feel replenished.
+[Sat Jan 11 15:47:49 2025] Blumpp begins to cast a spell.
+[Sat Jan 11 15:47:49 2025] Blumpp shouts, 'GG 004 CH -- Mcganahan'
+[Sat Jan 11 15:47:51 2025] Megachad Scores a critical hit!(241)
+[Sat Jan 11 15:47:51 2025] Your spell is interrupted.
+[Sat Jan 11 15:47:51 2025] You have healed Megachad for 159 points of damage.
+[Sat Jan 11 15:47:51 2025] You say out of character, 'GG RCH AAA -- Megachad'
+[Sat Jan 11 15:47:52 2025] You can't use that command while casting...
+[Sat Jan 11 15:47:52 2025] You begin casting Complete Healing.
+[Sat Jan 11 15:47:52 2025] You can't use that command while casting...
+[Sat Jan 11 15:47:53 2025] Outie begins to cast a spell.
+[Sat Jan 11 15:47:53 2025] Outie shouts, 'GG 005 CH -- Mcganahan'
+[Sat Jan 11 15:47:53 2025] Derakor the Vindicator goes on a RAMPAGE!
+[Sat Jan 11 15:47:53 2025] Derakor the Vindicator hits Megachad for 331 points of damage.
+[Sat Jan 11 15:47:53 2025] Derakor the Vindicator hits Megachad for 226 points of damage.
+[Sat Jan 11 15:47:53 2025] Derakor the Vindicator hits Megachad for 213 points of damage.
+[Sat Jan 11 15:47:53 2025] Derakor the Vindicator tries to hit Megachad, but Megachad dodges!
+[Sat Jan 11 15:47:53 2025] Jolimec begins to cast a spell.
+[Sat Jan 11 15:47:53 2025] Aelua begins to cast a spell.
+[Sat Jan 11 15:47:54 2025] Jolimec shouts, 'GG 001 CH -- Mcganahan'
+[Sat Jan 11 15:47:54 2025] Durtemike begins to cast a spell.
+[Sat Jan 11 15:47:54 2025] You feel replenished.
+[Sat Jan 11 15:47:55 2025] Ggin has been infused with the power of an Avatar.
+[Sat Jan 11 15:47:57 2025] Triten tells the guild, 'PST for druid buffs at vindi'
+[Sat Jan 11 15:47:57 2025] You have healed Megachad for 300 points of damage.
+[Sat Jan 11 15:47:58 2025] Metran begins to cast a spell.
+[Sat Jan 11 15:47:58 2025] Metran shouts, 'GG 002 CH -- Mcganahan'
+[Sat Jan 11 15:47:58 2025] Atouk has been infused with the power of an Avatar.
+[Sat Jan 11 15:47:59 2025] Vezpah begins to cast a spell.
+[Sat Jan 11 15:47:59 2025] Oowch experiences visions of grandeur.
+[Sat Jan 11 15:48:00 2025] Derakor the Vindicator goes on a RAMPAGE!
+[Sat Jan 11 15:48:00 2025] Derakor the Vindicator hits Megachad for 450 points of damage.
+[Sat Jan 11 15:48:00 2025] Derakor the Vindicator hits Megachad for 265 points of damage.
+[Sat Jan 11 15:48:00 2025] Derakor the Vindicator hits Megachad for 305 points of damage.
+[Sat Jan 11 15:48:00 2025] Derakor the Vindicator hits Megachad for 436 points of damage.
+[Sat Jan 11 15:48:00 2025] Megachad falls into a state of torpor.
+[Sat Jan 11 15:48:00 2025] Your spell is interrupted.
+[Sat Jan 11 15:48:00 2025] You feel replenished.
+[Sat Jan 11 15:48:00 2025] You say out of character, 'GG RCH AAA -- Megachad'
+[Sat Jan 11 15:48:00 2025] Laraus begins to cast a spell.
+[Sat Jan 11 15:48:01 2025] Derakor the Vindicator goes on a RAMPAGE!
+[Sat Jan 11 15:48:01 2025] Derakor the Vindicator hits Megachad for 450 points of damage.
+[Sat Jan 11 15:48:01 2025] Derakor the Vindicator tries to hit Megachad, but misses!
+[Sat Jan 11 15:48:01 2025] Derakor the Vindicator hits Megachad for 450 points of damage.
+[Sat Jan 11 15:48:01 2025] You can't use that command while casting...
+[Sat Jan 11 15:48:01 2025] You begin casting Complete Healing.
+[Sat Jan 11 15:48:01 2025] You can't use that command while casting...
+[Sat Jan 11 15:48:02 2025] Megachad is blasted with chlorophyll.
+[Sat Jan 11 15:48:02 2025] Squished begins to cast a spell.
+[Sat Jan 11 15:48:02 2025] Squished shouts, 'GG 003 CH -- Mcganahan'
+[Sat Jan 11 15:48:03 2025] Durtemike begins to cast a spell.
+[Sat Jan 11 15:48:03 2025] Aelua begins to cast a spell.
+[Sat Jan 11 15:48:03 2025] Mubbens Scores a critical hit!(25)
+[Sat Jan 11 15:48:04 2025] Frovo begins to cast a spell.
+[Sat Jan 11 15:48:04 2025] Triten begins to cast a spell.
+[Sat Jan 11 15:48:05 2025] Blumpp begins to cast a spell.
+[Sat Jan 11 15:48:05 2025] Durtemike winces.
+[Sat Jan 11 15:48:06 2025] Blumpp shouts, 'GG 004 CH -- Mcganahan'
+[Sat Jan 11 15:48:06 2025] Micromacheen feels much better.
+[Sat Jan 11 15:48:06 2025] You feel replenished.
+[Sat Jan 11 15:48:07 2025] Vezpah looks very tranquil.
+[Sat Jan 11 15:48:09 2025] Durtemike peers through a telescope.
+[Sat Jan 11 15:48:09 2025] Durtemike begins to cast a spell.
+[Sat Jan 11 15:48:09 2025] Megachad feels much better.
+[Sat Jan 11 15:48:10 2025] Megachad feels much better.
+[Sat Jan 11 15:48:10 2025] Outie begins to cast a spell.
+[Sat Jan 11 15:48:10 2025] Derakor the Vindicator goes on a RAMPAGE!
+[Sat Jan 11 15:48:10 2025] Derakor the Vindicator hits Megachad for 213 points of damage.
+[Sat Jan 11 15:48:10 2025] Derakor the Vindicator hits Megachad for 213 points of damage.
+[Sat Jan 11 15:48:10 2025] Derakor the Vindicator tries to hit Megachad, but misses!
+[Sat Jan 11 15:48:10 2025] Outie shouts, 'GG 005 CH -- Mcganahan'
+[Sat Jan 11 15:48:11 2025] Aelua begins to cast a spell.
+[Sat Jan 11 15:48:11 2025] You have healed Megachad for 453 points of damage.
+[Sat Jan 11 15:48:11 2025] Megachad is completely healed.
+[Sat Jan 11 15:48:12 2025] Durtemike winces.
+[Sat Jan 11 15:48:12 2025] Oowch has been infused with the power of an Avatar.
+[Sat Jan 11 15:48:12 2025] Durtemike peers through a telescope.
+[Sat Jan 11 15:48:12 2025] You feel replenished.
+[Sat Jan 11 15:48:12 2025] Durtemike's spell fizzles!
+[Sat Jan 11 15:48:13 2025] Durtemike begins to cast a spell.
+[Sat Jan 11 15:48:14 2025] Jolimec begins to cast a spell.
+[Sat Jan 11 15:48:15 2025] You say out of character, 'GG RCH AAA -- Megachad'
+[Sat Jan 11 15:48:15 2025] Jolimec shouts, 'GG 001 CH -- Mcganahan'
+[Sat Jan 11 15:48:15 2025] You can't use that command while casting...
+[Sat Jan 11 15:48:15 2025] You begin casting Complete Healing.
+[Sat Jan 11 15:48:15 2025] Blumpp regains concentration and continues casting.
+[Sat Jan 11 15:48:15 2025] You can't use that command while casting...
+[Sat Jan 11 15:48:16 2025] Durtemike winces.
+[Sat Jan 11 15:48:16 2025] Durtemike peers through a telescope.
+[Sat Jan 11 15:48:17 2025] Durtemike begins to cast a spell.
+[Sat Jan 11 15:48:17 2025] Derakor the Vindicator goes on a RAMPAGE!
+[Sat Jan 11 15:48:17 2025] Derakor the Vindicator tries to hit Megachad, but misses!
+[Sat Jan 11 15:48:17 2025] Derakor the Vindicator hits Megachad for 213 points of damage.
+[Sat Jan 11 15:48:17 2025] Atouk beams a smile at Derakor the Vindicator
+[Sat Jan 11 15:48:17 2025] Atouk says 'Ahhh, I feel much better now...'
+[Sat Jan 11 15:48:18 2025] Atouk Scores a critical hit!(74)
+[Sat Jan 11 15:48:18 2025] Laraus begins to cast a spell.
+[Sat Jan 11 15:48:18 2025] You feel replenished.
+[Sat Jan 11 15:48:19 2025] Metran begins to cast a spell.
+[Sat Jan 11 15:48:19 2025] Atouk beams a smile at Derakor the Vindicator
+[Sat Jan 11 15:48:19 2025] Atouk says 'Ahhh, I feel much better now...'
+[Sat Jan 11 15:48:19 2025] Metran shouts, 'GG 002 CH -- Mcganahan'
+[Sat Jan 11 15:48:19 2025] Durtemike winces.
+[Sat Jan 11 15:48:19 2025] Robosnecro tells the guild, 'guards might leash'
+[Sat Jan 11 15:48:20 2025] Durtemike peers through a telescope.
+[Sat Jan 11 15:48:20 2025] Durtemike begins to cast a spell.
+[Sat Jan 11 15:48:21 2025] Derakor the Vindicator goes on a RAMPAGE!
+[Sat Jan 11 15:48:21 2025] Derakor the Vindicator tries to hit Megachad, but misses!
+[Sat Jan 11 15:48:21 2025] Derakor the Vindicator tries to hit Megachad, but misses!
+[Sat Jan 11 15:48:21 2025] Derakor the Vindicator hits Megachad for 450 points of damage.
+[Sat Jan 11 15:48:21 2025] Your spell is interrupted.
+[Sat Jan 11 15:48:22 2025] You say out of character, 'GG RCH AAA -- Megachad'
+[Sat Jan 11 15:48:22 2025] Derakor the Vindicator goes on a RAMPAGE!
+[Sat Jan 11 15:48:22 2025] Derakor the Vindicator tries to hit Megachad, but misses!
+[Sat Jan 11 15:48:22 2025] Derakor the Vindicator tries to hit Megachad, but misses!
+[Sat Jan 11 15:48:22 2025] Derakor the Vindicator hits Megachad for 371 points of damage.
+[Sat Jan 11 15:48:22 2025] Derakor the Vindicator tries to hit Megachad, but misses!
+[Sat Jan 11 15:48:22 2025] You begin casting Complete Healing.
+[Sat Jan 11 15:48:22 2025] You can't use that command while casting...
+[Sat Jan 11 15:48:22 2025] You can't use that command while casting...
+[Sat Jan 11 15:48:23 2025] Durtemike winces.
+[Sat Jan 11 15:48:23 2025] Squished begins to cast a spell.
+[Sat Jan 11 15:48:23 2025] Derakor the Vindicator goes on a RAMPAGE!
+[Sat Jan 11 15:48:23 2025] Derakor the Vindicator hits Megachad for 384 points of damage.
+[Sat Jan 11 15:48:23 2025] Derakor the Vindicator hits Megachad for 357 points of damage.
+[Sat Jan 11 15:48:23 2025] Squished shouts, 'GG 003 CH -- Mcganahan'
+[Sat Jan 11 15:48:23 2025] Durtemike peers through a telescope.
+[Sat Jan 11 15:48:24 2025] Durtemike begins to cast a spell.
+[Sat Jan 11 15:48:24 2025] Gegrior feels much better.
+[Sat Jan 11 15:48:24 2025] You feel replenished.
+[Sat Jan 11 15:48:25 2025] Atouk has been infused with the power of an Avatar.
+[Sat Jan 11 15:48:26 2025] Durtemike winces.
+[Sat Jan 11 15:48:27 2025] Mcganahan Scores a critical hit!(37)
+[Sat Jan 11 15:48:27 2025] Blumpp begins to cast a spell.
+[Sat Jan 11 15:48:27 2025] Blumpp shouts, 'GG 004 CH -- Mcganahan'
+[Sat Jan 11 15:48:27 2025] Durtemike peers through a telescope.
+[Sat Jan 11 15:48:27 2025] Atouk has been infused with the power of an Avatar.
+[Sat Jan 11 15:48:27 2025] Durtemike begins to cast a spell.
+[Sat Jan 11 15:48:28 2025] Derakor the Vindicator goes on a RAMPAGE!
+[Sat Jan 11 15:48:28 2025] Derakor the Vindicator tries to hit Megachad, but Megachad dodges!
+[Sat Jan 11 15:48:28 2025] Derakor the Vindicator tries to hit Megachad, but misses!
+[Sat Jan 11 15:48:28 2025] Derakor the Vindicator hits Megachad for 450 points of damage.
+[Sat Jan 11 15:48:28 2025] Derakor the Vindicator hits Megachad for 265 points of damage.
+[Sat Jan 11 15:48:30 2025] Durtemike winces.
+[Sat Jan 11 15:48:30 2025] Outie begins to cast a spell.
+[Sat Jan 11 15:48:30 2025] You feel replenished.
+[Sat Jan 11 15:48:30 2025] Durtemike peers through a telescope.
+[Sat Jan 11 15:48:31 2025] Darkfires begins to cast a spell.
+[Sat Jan 11 15:48:31 2025] Outie shouts, 'GG 005 CH -- Mcganahan'
+[Sat Jan 11 15:48:32 2025] You have healed Megachad for 1854 points of damage.
+[Sat Jan 11 15:48:32 2025] Megachad is completely healed.
+[Sat Jan 11 15:48:32 2025] Atouk Scores a critical hit!(52)
+[Sat Jan 11 15:48:32 2025] Derakor the Vindicator goes on a RAMPAGE!
+[Sat Jan 11 15:48:32 2025] Derakor the Vindicator hits Megachad for 371 points of damage.
+[Sat Jan 11 15:48:32 2025] Derakor the Vindicator tries to hit Megachad, but misses!
+[Sat Jan 11 15:48:32 2025] Derakor the Vindicator tries to hit Megachad, but misses!
+[Sat Jan 11 15:48:33 2025] Squished regains concentration and continues casting.
+[Sat Jan 11 15:48:33 2025] Durtemike begins to cast a spell.
+[Sat Jan 11 15:48:34 2025] Atouk beams a smile at Derakor the Vindicator
+[Sat Jan 11 15:48:34 2025] Atouk says 'Ahhh, I feel much better now...'
+[Sat Jan 11 15:48:35 2025] Ggin has been infused with the power of an Avatar.
+[Sat Jan 11 15:48:36 2025] You say out of character, 'GG RCH AAA -- Megachad'
+[Sat Jan 11 15:48:36 2025] You can't use that command while casting...
+[Sat Jan 11 15:48:36 2025] You begin casting Complete Healing.
+[Sat Jan 11 15:48:36 2025] Derakor the Vindicator goes on a RAMPAGE!
+[Sat Jan 11 15:48:36 2025] Derakor the Vindicator tries to hit Megachad, but misses!
+[Sat Jan 11 15:48:36 2025] Derakor the Vindicator hits Megachad for 213 points of damage.
+[Sat Jan 11 15:48:36 2025] You can't use that command while casting...
+[Sat Jan 11 15:48:36 2025] You feel replenished.
+[Sat Jan 11 15:48:36 2025] Jolimec begins to cast a spell.
+[Sat Jan 11 15:48:37 2025] Jolimec shouts, 'GG 001 CH -- Mcganahan'
+[Sat Jan 11 15:48:37 2025] Laraus begins to cast a spell.
+[Sat Jan 11 15:48:38 2025] Derakor the Vindicator goes on a RAMPAGE!
+[Sat Jan 11 15:48:38 2025] Derakor the Vindicator hits Megachad for 357 points of damage.
+[Sat Jan 11 15:48:38 2025] Derakor the Vindicator tries to hit Megachad, but misses!
+[Sat Jan 11 15:48:38 2025] Derakor the Vindicator hits Megachad for 371 points of damage.
+[Sat Jan 11 15:48:38 2025] Darkfires's spell fizzles!
+[Sat Jan 11 15:48:39 2025] Atouk Scores a critical hit!(61)
+[Sat Jan 11 15:48:39 2025] Durtemike falls into a state of torpor.
+[Sat Jan 11 15:48:39 2025] Darkfires begins to cast a spell.
+[Sat Jan 11 15:48:40 2025] Atouk Scores a critical hit!(127)
+[Sat Jan 11 15:48:41 2025] Metran begins to cast a spell.
+[Sat Jan 11 15:48:41 2025] Metran shouts, 'GG 002 CH -- Mcganahan'
+[Sat Jan 11 15:48:42 2025] Mcganahan Scores a critical hit!(45)
+[Sat Jan 11 15:48:42 2025] You feel replenished.
+[Sat Jan 11 15:48:43 2025] Allaura feels much better.
+[Sat Jan 11 15:48:43 2025] Derakor the Vindicator goes on a RAMPAGE!
+[Sat Jan 11 15:48:43 2025] Derakor the Vindicator hits Megachad for 318 points of damage.
+[Sat Jan 11 15:48:43 2025] Derakor the Vindicator tries to hit Megachad, but misses!
+[Sat Jan 11 15:48:43 2025] Derakor the Vindicator hits Megachad for 200 points of damage.
+[Sat Jan 11 15:48:43 2025] Megachad Scores a critical hit!(156)
+[Sat Jan 11 15:48:43 2025] Durtemike begins to cast a spell.
+[Sat Jan 11 15:48:43 2025] Outie modulates.
+[Sat Jan 11 15:48:44 2025] Atouk Scores a critical hit!(37)
+[Sat Jan 11 15:48:44 2025] Squished begins to cast a spell.
+[Sat Jan 11 15:48:44 2025] Squished shouts, 'GG 003 CH -- Mcganahan'
+[Sat Jan 11 15:48:46 2025] Derakor the Vindicator goes on a RAMPAGE!
+[Sat Jan 11 15:48:46 2025] Derakor the Vindicator tries to hit Megachad, but Megachad ripostes!
+[Sat Jan 11 15:48:46 2025] You have healed Megachad for 1776 points of damage.
+[Sat Jan 11 15:48:46 2025] Megachad is completely healed.
+[Sat Jan 11 15:48:46 2025] Veloh tells the guild, '!tod scout'
+[Sat Jan 11 15:48:47 2025] Blumpp begins to cast a spell.
+[Sat Jan 11 15:48:48 2025] Blumpp shouts, 'GG 004 CH -- Mcganahan'
+[Sat Jan 11 15:48:49 2025] You feel replenished.
+[Sat Jan 11 15:48:49 2025] Mcganahan Scores a critical hit!(44)
+[Sat Jan 11 15:48:49 2025] Atouk Scores a critical hit!(35)
+[Sat Jan 11 15:48:49 2025] Megachad falls into a state of torpor.
+[Sat Jan 11 15:48:50 2025] Durtemike peers through a telescope.
+[Sat Jan 11 15:48:50 2025] Durtemike begins to cast a spell.
+[Sat Jan 11 15:48:50 2025] Pipey has been infused with the power of an Avatar.
+[Sat Jan 11 15:48:51 2025] Pipey beams a smile at Derakor the Vindicator
+[Sat Jan 11 15:48:51 2025] Pipey says 'Ahhh, I feel much better now...'
+[Sat Jan 11 15:48:51 2025] Outie begins to cast a spell.
+[Sat Jan 11 15:48:52 2025] Outie shouts, 'GG 005 CH -- Mcganahan'
+[Sat Jan 11 15:48:53 2025] Durtemike winces.
+[Sat Jan 11 15:48:53 2025] Laraus begins to cast a spell.
+[Sat Jan 11 15:48:53 2025] Ggin has been infused with the power of an Avatar.
+[Sat Jan 11 15:48:54 2025] Durtemike peers through a telescope.
+[Sat Jan 11 15:48:54 2025] Durtemike begins to cast a spell.
+[Sat Jan 11 15:48:54 2025] You feel replenished.
+[Sat Jan 11 15:48:55 2025] Derakor the Vindicator goes on a RAMPAGE!
+[Sat Jan 11 15:48:55 2025] Derakor the Vindicator tries to hit Megachad, but misses!
+[Sat Jan 11 15:48:55 2025] Derakor the Vindicator hits Megachad for 278 points of damage.
+[Sat Jan 11 15:48:56 2025] Jolimec begins to cast a spell.
+[Sat Jan 11 15:48:56 2025] Jolimec shouts, 'GG 001 CH -- Badtankexample'
+[Sat Jan 11 15:48:57 2025] Durtemike winces.
+[Sat Jan 11 15:48:58 2025] Durtemike peers through a telescope.
+[Sat Jan 11 15:48:58 2025] Durtemike begins to cast a spell.
+[Sat Jan 11 15:48:58 2025] Oowch beams a smile at Derakor the Vindicator
+[Sat Jan 11 15:48:58 2025] Oowch says 'Ahhh, I feel much better now...'
+[Sat Jan 11 15:48:58 2025] Ricks feels much better.
+[Sat Jan 11 15:49:00 2025] Mcganahan Scores a critical hit!(32)
+[Sat Jan 11 15:49:00 2025] Metran begins to cast a spell.
+[Sat Jan 11 15:49:00 2025] Durtemike winces.
+[Sat Jan 11 15:49:01 2025] Metran shouts, 'GG 002 CH -- Mcganahan'
+[Sat Jan 11 15:49:01 2025] You feel replenished.
+[Sat Jan 11 15:49:01 2025] Durtemike peers through a telescope.
+[Sat Jan 11 15:49:01 2025] Durtemike begins to cast a spell.
+[Sat Jan 11 15:49:01 2025] Derakor the Vindicator goes on a RAMPAGE!
+[Sat Jan 11 15:49:01 2025] Derakor the Vindicator tries to hit Megachad, but Megachad dodges!
+[Sat Jan 11 15:49:01 2025] Derakor the Vindicator hits Megachad for 450 points of damage.
+[Sat Jan 11 15:49:01 2025] Derakor the Vindicator tries to hit Megachad, but misses!
+[Sat Jan 11 15:49:01 2025] Derakor the Vindicator hits Megachad for 450 points of damage.
+[Sat Jan 11 15:49:02 2025] Oowch tells the guild, 'vindi @ 50&PCT;'
+[Sat Jan 11 15:49:02 2025] You say out of character, 'GG RCH AAA -- Megachad'
+[Sat Jan 11 15:49:03 2025] Aelua begins to cast a spell.
+[Sat Jan 11 15:49:03 2025] Pipey beams a smile at Derakor the Vindicator
+[Sat Jan 11 15:49:03 2025] Pipey says 'Ahhh, I feel much better now...'
+[Sat Jan 11 15:49:03 2025] You can't use that command while casting...
+[Sat Jan 11 15:49:03 2025] Derakor the Vindicator goes on a RAMPAGE!
+[Sat Jan 11 15:49:03 2025] Derakor the Vindicator tries to hit Megachad, but misses!
+[Sat Jan 11 15:49:03 2025] Derakor the Vindicator hits Megachad for 384 points of damage.
+[Sat Jan 11 15:49:03 2025] Derakor the Vindicator hits Megachad for 318 points of damage.
+[Sat Jan 11 15:49:03 2025] You begin casting Complete Healing.
+[Sat Jan 11 15:49:03 2025] You can't use that command while casting...
+[Sat Jan 11 15:49:04 2025] Durtemike winces.
+[Sat Jan 11 15:49:04 2025] Vezpah begins to cast a spell.
+[Sat Jan 11 15:49:04 2025] Derakor the Vindicator goes on a RAMPAGE!
+[Sat Jan 11 15:49:04 2025] Derakor the Vindicator hits Megachad for 450 points of damage.
+[Sat Jan 11 15:49:04 2025] Durtemike peers through a telescope.
+[Sat Jan 11 15:49:04 2025] Squished begins to cast a spell.
+[Sat Jan 11 15:49:05 2025] Squished shouts, 'GG 003 CH -- Mcganahan'
+[Sat Jan 11 15:49:05 2025] Durtemike begins to cast a spell.
+[Sat Jan 11 15:49:05 2025] Mcganahan Scores a critical hit!(98)
+[Sat Jan 11 15:49:05 2025] Derakor the Vindicator goes on a RAMPAGE!
+[Sat Jan 11 15:49:05 2025] Derakor the Vindicator hits Megachad for 450 points of damage.
+[Sat Jan 11 15:49:05 2025] Derakor the Vindicator tries to hit Megachad, but Megachad dodges!
+[Sat Jan 11 15:49:05 2025] Derakor the Vindicator hits Megachad for 450 points of damage.
+[Sat Jan 11 15:49:05 2025] Derakor the Vindicator hits Megachad for 450 points of damage.
+[Sat Jan 11 15:49:06 2025] You feel replenished.
+[Sat Jan 11 15:49:07 2025] Derakor the Vindicator goes on a RAMPAGE!
+[Sat Jan 11 15:49:07 2025] Derakor the Vindicator tries to hit Megachad, but misses!
+[Sat Jan 11 15:49:07 2025] Derakor the Vindicator hits Megachad for 278 points of damage.
+[Sat Jan 11 15:49:07 2025] Derakor the Vindicator tries to hit Megachad, but misses!
+[Sat Jan 11 15:49:07 2025] Megachad is blasted with chlorophyll.
+[Sat Jan 11 15:49:07 2025] Durtemike winces.
+[Sat Jan 11 15:49:08 2025] Megachad Scores a critical hit!(81)
+[Sat Jan 11 15:49:08 2025] Durtemike peers through a telescope.
+[Sat Jan 11 15:49:08 2025] Micromacheen experiences visions of grandeur.
+[Sat Jan 11 15:49:08 2025] Blumpp begins to cast a spell.
+[Sat Jan 11 15:49:08 2025] Durtemike begins to cast a spell.
+[Sat Jan 11 15:49:09 2025] Blumpp shouts, 'GG 004 CH -- Mcganahan'
+[Sat Jan 11 15:49:10 2025] Pipey beams a smile at Derakor the Vindicator
+[Sat Jan 11 15:49:10 2025] Pipey says 'Ahhh, I feel much better now...'
+[Sat Jan 11 15:49:11 2025] Oowch has fallen to the ground.
+[Sat Jan 11 15:49:11 2025] Durtemike winces.
+[Sat Jan 11 15:49:11 2025] Megachad Scores a critical hit!(185)
+[Sat Jan 11 15:49:12 2025] You feel replenished.
+[Sat Jan 11 15:49:13 2025] A missed note brings Allaura's song to a close!
+[Sat Jan 11 15:49:13 2025] You have healed Megachad for 2659 points of damage.
+[Sat Jan 11 15:49:13 2025] Megachad is completely healed.
+[Sat Jan 11 15:49:14 2025] Outie begins to cast a spell.
+[Sat Jan 11 15:49:14 2025] Outie shouts, 'GG 005 CH -- Mcganahan'
+[Sat Jan 11 15:49:15 2025] Krakish has been infused with the power of an Avatar.
+[Sat Jan 11 15:49:15 2025] Ggin has been infused with the power of an Avatar.
+[Sat Jan 11 15:49:16 2025] Laraus begins to cast a spell.
+[Sat Jan 11 15:49:16 2025] Derakor the Vindicator goes on a RAMPAGE!
+[Sat Jan 11 15:49:16 2025] Derakor the Vindicator tries to hit Megachad, but misses!
+[Sat Jan 11 15:49:16 2025] Derakor the Vindicator hits Megachad for 239 points of damage.
+[Sat Jan 11 15:49:16 2025] Derakor the Vindicator hits Megachad for 450 points of damage.
+[Sat Jan 11 15:49:17 2025] Durtemike begins to cast a spell.
+[Sat Jan 11 15:49:17 2025] You say out of character, 'GG RCH AAA -- Megachad'
+[Sat Jan 11 15:49:17 2025] Krakish has been infused with the power of an Avatar.
+[Sat Jan 11 15:49:17 2025] Derakor the Vindicator goes on a RAMPAGE!
+[Sat Jan 11 15:49:17 2025] Derakor the Vindicator hits Megachad for 344 points of damage.
+[Sat Jan 11 15:49:17 2025] Derakor the Vindicator hits Megachad for 357 points of damage.
+[Sat Jan 11 15:49:17 2025] Derakor the Vindicator tries to hit Megachad, but Megachad parries!
+[Sat Jan 11 15:49:17 2025] Derakor the Vindicator tries to hit Megachad, but Megachad parries!
+[Sat Jan 11 15:49:17 2025] You begin casting Complete Healing.
+[Sat Jan 11 15:49:17 2025] You can't use that command while casting...
+[Sat Jan 11 15:49:17 2025] You can't use that command while casting...
+[Sat Jan 11 15:49:19 2025] Jolimec begins to cast a spell.
+[Sat Jan 11 15:49:19 2025] You feel replenished.
+[Sat Jan 11 15:49:19 2025] Jolimec shouts, 'GG 001 CH -- Mcganahan'
+[Sat Jan 11 15:49:19 2025] Allaurafeels their pulse quicken.
+[Sat Jan 11 15:49:20 2025] Derakor the Vindicator goes on a RAMPAGE!
+[Sat Jan 11 15:49:20 2025] Derakor the Vindicator tries to hit Megachad, but misses!
+[Sat Jan 11 15:49:20 2025] Derakor the Vindicator hits Megachad for 292 points of damage.
+[Sat Jan 11 15:49:20 2025] Derakor the Vindicator hits Megachad for 371 points of damage.
+[Sat Jan 11 15:49:20 2025] Derakor the Vindicator hits Megachad for 265 points of damage.
+[Sat Jan 11 15:49:20 2025] Ggin has been infused with the power of an Avatar.
+[Sat Jan 11 15:49:20 2025] Aelua begins to cast a spell.
+[Sat Jan 11 15:49:21 2025] Atouk has been infused with the power of an Avatar.
+[Sat Jan 11 15:49:21 2025] Derakor the Vindicator goes on a RAMPAGE!
+[Sat Jan 11 15:49:21 2025] Derakor the Vindicator hits Megachad for 357 points of damage.
+[Sat Jan 11 15:49:21 2025] Derakor the Vindicator hits Megachad for 450 points of damage.
+[Sat Jan 11 15:49:21 2025] Derakor the Vindicator tries to hit Megachad, but Megachad dodges!
+[Sat Jan 11 15:49:21 2025] Megachad feels much better.
+[Sat Jan 11 15:49:21 2025] Oowch beams a smile at Derakor the Vindicator
+[Sat Jan 11 15:49:21 2025] Oowch says 'Ahhh, I feel much better now...'
+[Sat Jan 11 15:49:22 2025] Metran begins to cast a spell.
+[Sat Jan 11 15:49:22 2025] Derakor the Vindicator goes on a RAMPAGE!
+[Sat Jan 11 15:49:22 2025] Derakor the Vindicator hits Megachad for 450 points of damage.
+[Sat Jan 11 15:49:22 2025] Derakor the Vindicator hits Megachad for 450 points of damage.
+[Sat Jan 11 15:49:22 2025] Derakor the Vindicator hits Megachad for 450 points of damage.
+[Sat Jan 11 15:49:22 2025] Derakor the Vindicator hits Megachad for 410 points of damage.
+[Sat Jan 11 15:49:22 2025] Megachad goes into a berserker frenzy!
+[Sat Jan 11 15:49:22 2025] Metran shouts, 'GG 002 CH -- Mcganahan'
+[Sat Jan 11 15:49:23 2025] Megachad falls into a state of torpor.
+[Sat Jan 11 15:49:24 2025] Triten looks very tranquil.
+[Sat Jan 11 15:49:24 2025] Atouk beams a smile at Derakor the Vindicator
+[Sat Jan 11 15:49:24 2025] Atouk says 'Ahhh, I feel much better now...'
+[Sat Jan 11 15:49:24 2025] Kelce has been infused with the power of an Avatar.
+[Sat Jan 11 15:49:25 2025] You feel replenished.
+[Sat Jan 11 15:49:25 2025] Durtemike begins to cast a spell.
+[Sat Jan 11 15:49:26 2025] Atouk has been infused with the power of an Avatar.
+[Sat Jan 11 15:49:26 2025] Derakor the Vindicator goes on a RAMPAGE!
+[Sat Jan 11 15:49:26 2025] Derakor the Vindicator hits Megachad for 371 points of damage.
+[Sat Jan 11 15:49:26 2025] Derakor the Vindicator tries to hit Megachad, but misses!
+[Sat Jan 11 15:49:26 2025] Derakor the Vindicator hits Megachad for 423 points of damage.
+[Sat Jan 11 15:49:26 2025] Derakor the Vindicator tries to hit Megachad, but misses!
+[Sat Jan 11 15:49:27 2025] You have healed Megachad for 4781 points of damage.
+[Sat Jan 11 15:49:27 2025] Megachad is completely healed.
+[Sat Jan 11 15:49:27 2025] Megachad is no longer berserk.
+[Sat Jan 11 15:49:27 2025] Squished begins to cast a spell.
+[Sat Jan 11 15:49:27 2025] Squished shouts, 'GG 003 CH -- Mcganahan'
+[Sat Jan 11 15:49:28 2025] Durtemike winces.
+[Sat Jan 11 15:49:28 2025] Metran tells the guild, '40m'
+[Sat Jan 11 15:49:29 2025] Durtemike peers through a telescope.
+[Sat Jan 11 15:49:29 2025] Durtemike begins to cast a spell.
+[Sat Jan 11 15:49:29 2025] Triten begins to cast a spell.
+[Sat Jan 11 15:49:30 2025] Derakor the Vindicator goes on a RAMPAGE!
+[Sat Jan 11 15:49:30 2025] Derakor the Vindicator hits Megachad for 423 points of damage.
+[Sat Jan 11 15:49:30 2025] Derakor the Vindicator hits Megachad for 384 points of damage.
+[Sat Jan 11 15:49:30 2025] Derakor the Vindicator hits Megachad for 344 points of damage.
+[Sat Jan 11 15:49:30 2025] Derakor the Vindicator hits Megachad for 450 points of damage.
+[Sat Jan 11 15:49:31 2025] You feel replenished.
+[Sat Jan 11 15:49:31 2025] You say out of character, 'GG RCH AAA -- Megachad'
+[Sat Jan 11 15:49:31 2025] Oowch tells the guild, 'vindi @ 35&PCT;'
+[Sat Jan 11 15:49:31 2025] Triten's casting is interrupted!
+[Sat Jan 11 15:49:32 2025] You begin casting Complete Healing.
+[Sat Jan 11 15:49:32 2025] You can't use that command while casting...
+[Sat Jan 11 15:49:32 2025] Durtemike winces.
+[Sat Jan 11 15:49:32 2025] You can't use that command while casting...
+[Sat Jan 11 15:49:32 2025] Triten begins to cast a spell.
+[Sat Jan 11 15:49:32 2025] Blumpp begins to cast a spell.
+[Sat Jan 11 15:49:33 2025] Durtemike peers through a telescope.
+[Sat Jan 11 15:49:33 2025] Blumpp shouts, 'GG 004 CH -- Mcganahan'
+[Sat Jan 11 15:49:33 2025] Durtemike begins to cast a spell.
+[Sat Jan 11 15:49:35 2025] Squished is blasted with chlorophyll.
+[Sat Jan 11 15:49:35 2025] Durtemike winces.
+[Sat Jan 11 15:49:36 2025] Mubbens has been infused with the power of an Avatar.
+[Sat Jan 11 15:49:37 2025] You feel replenished.
+[Sat Jan 11 15:49:37 2025] Outie begins to cast a spell.
+[Sat Jan 11 15:49:37 2025] Outie shouts, 'GG 005 CH -- Mcganahan'
+[Sat Jan 11 15:49:37 2025] Richardbox tells the guild, '006 joining'
+[Sat Jan 11 15:49:38 2025] Derakor the Vindicator goes on a RAMPAGE!
+[Sat Jan 11 15:49:38 2025] Derakor the Vindicator hits Megachad for 278 points of damage.
+[Sat Jan 11 15:49:38 2025] Derakor the Vindicator tries to hit Megachad, but Megachad parries!
+[Sat Jan 11 15:49:38 2025] Derakor the Vindicator hits Megachad for 226 points of damage.
+[Sat Jan 11 15:49:38 2025] Durtemike begins to cast a spell.
+[Sat Jan 11 15:49:39 2025] Triten begins to cast a spell.
+[Sat Jan 11 15:49:40 2025] Richardbox shouts, 'GG 006 CH -- Mcganahan'
+[Sat Jan 11 15:49:40 2025] Mcganahan Scores a critical hit!(73)
+[Sat Jan 11 15:49:41 2025] Vezpah begins to cast a spell.
+[Sat Jan 11 15:49:41 2025] Derakor the Vindicator goes on a RAMPAGE!
+[Sat Jan 11 15:49:41 2025] Derakor the Vindicator tries to hit Megachad, but misses!
+[Sat Jan 11 15:49:41 2025] Derakor the Vindicator hits Megachad for 384 points of damage.
+[Sat Jan 11 15:49:41 2025] Derakor the Vindicator tries to hit Megachad, but misses!
+[Sat Jan 11 15:49:42 2025] You have healed Megachad for 1853 points of damage.
+[Sat Jan 11 15:49:42 2025] Megachad is completely healed.
+[Sat Jan 11 15:49:42 2025] Richardbox begins to cast a spell.
+[Sat Jan 11 15:49:42 2025] Kelce has been infused with the power of an Avatar.
+[Sat Jan 11 15:49:42 2025] Atouk Scores a critical hit!(30)
+[Sat Jan 11 15:49:43 2025] You feel replenished.
+[Sat Jan 11 15:49:43 2025] Derakor the Vindicator goes on a RAMPAGE!
+[Sat Jan 11 15:49:43 2025] Derakor the Vindicator tries to hit Megachad, but misses!
+[Sat Jan 11 15:49:43 2025] Derakor the Vindicator hits Megachad for 318 points of damage.
+[Sat Jan 11 15:49:43 2025] Derakor the Vindicator tries to hit Megachad, but Megachad parries!
+[Sat Jan 11 15:49:43 2025] Derakor the Vindicator tries to hit Megachad, but Megachad dodges!
+[Sat Jan 11 15:49:44 2025] Megachad is blasted with chlorophyll.
+[Sat Jan 11 15:49:44 2025] Ggin has been infused with the power of an Avatar.
+[Sat Jan 11 15:49:44 2025] Durtemike falls into a state of torpor.
+[Sat Jan 11 15:49:46 2025] Jolimec begins to cast a spell.
+[Sat Jan 11 15:49:46 2025] Jolimec shouts, 'GG 001 CH -- Mcganahan'
+[Sat Jan 11 15:49:47 2025] Durtemike begins to cast a spell.
+[Sat Jan 11 15:49:47 2025] Outie modulates.
+[Sat Jan 11 15:49:48 2025] Squished begins to regenerate.
+[Sat Jan 11 15:49:48 2025] Triten begins to regenerate.
+[Sat Jan 11 15:49:49 2025] You feel replenished.
+[Sat Jan 11 15:49:50 2025] Derakor the Vindicator goes on a RAMPAGE!
+[Sat Jan 11 15:49:50 2025] Derakor the Vindicator hits Megachad for 344 points of damage.
+[Sat Jan 11 15:49:50 2025] Derakor the Vindicator hits Megachad for 305 points of damage.
+[Sat Jan 11 15:49:51 2025] Metran begins to cast a spell.
+[Sat Jan 11 15:49:51 2025] Metran shouts, 'GG 002 CH -- Mcganahan'
+[Sat Jan 11 15:49:51 2025] Derakor the Vindicator goes on a RAMPAGE!
+[Sat Jan 11 15:49:51 2025] Derakor the Vindicator hits Megachad for 450 points of damage.
+[Sat Jan 11 15:49:51 2025] Derakor the Vindicator hits Megachad for 278 points of damage.
+[Sat Jan 11 15:49:51 2025] Derakor the Vindicator hits Megachad for 371 points of damage.
+[Sat Jan 11 15:49:52 2025] Richardbox regains concentration and continues casting.
+[Sat Jan 11 15:49:52 2025] Atouk Scores a critical hit!(44)
+[Sat Jan 11 15:49:53 2025] You say out of character, 'GG RCH AAA -- Megachad'
+[Sat Jan 11 15:49:53 2025] You can't use that command while casting...
+[Sat Jan 11 15:49:53 2025] You begin casting Complete Healing.
+[Sat Jan 11 15:49:53 2025] Megachad falls into a state of torpor.
+[Sat Jan 11 15:49:53 2025] You can't use that command while casting...
+[Sat Jan 11 15:49:53 2025] Pipey beams a smile at Derakor the Vindicator
+[Sat Jan 11 15:49:53 2025] Pipey says 'Ahhh, I feel much better now...'
+[Sat Jan 11 15:49:54 2025] Krakish has been infused with the power of an Avatar.
+[Sat Jan 11 15:49:55 2025] You feel replenished.
+[Sat Jan 11 15:49:55 2025] Durtemike peers through a telescope.
+[Sat Jan 11 15:49:55 2025] Durtemike begins to cast a spell.
+[Sat Jan 11 15:49:56 2025] Squished begins to cast a spell.
+[Sat Jan 11 15:49:56 2025] Squished shouts, 'GG 003 CH -- Mcganahan'
+[Sat Jan 11 15:49:57 2025] Oowch has been infused with the power of an Avatar.
+[Sat Jan 11 15:49:58 2025] Derakor the Vindicator goes on a RAMPAGE!
+[Sat Jan 11 15:49:58 2025] Derakor the Vindicator tries to hit Megachad, but misses!
+[Sat Jan 11 15:49:58 2025] Derakor the Vindicator tries to hit Megachad, but misses!
+[Sat Jan 11 15:49:58 2025] Derakor the Vindicator hits Megachad for 384 points of damage.
+[Sat Jan 11 15:49:58 2025] Durtemike winces.
+[Sat Jan 11 15:49:59 2025] Durtemike peers through a telescope.
+[Sat Jan 11 15:49:59 2025] Atouk has been infused with the power of an Avatar.
+[Sat Jan 11 15:49:59 2025] Blumpp begins to cast a spell.
+[Sat Jan 11 15:49:59 2025] Durtemike begins to cast a spell.
+[Sat Jan 11 15:49:59 2025] Blumpp shouts, 'GG 004 CH -- Mcganahan'
+[Sat Jan 11 15:50:00 2025] Mcganahan tells the guild, 'THREE SECONDS'
+[Sat Jan 11 15:50:01 2025] You feel replenished.
+[Sat Jan 11 15:50:02 2025] You say to your guild, '!chainspeed 3'
+[Sat Jan 11 15:50:02 2025] Gorimek begins to cast a spell.
+[Sat Jan 11 15:50:02 2025] Ggin has been infused with the power of an Avatar.
+[Sat Jan 11 15:50:02 2025] Durtemike winces.
+[Sat Jan 11 15:50:03 2025] Durtemike peers through a telescope.
+[Sat Jan 11 15:50:03 2025] Durtemike's spell fizzles!
+[Sat Jan 11 15:50:03 2025] Derakor the Vindicator goes on a RAMPAGE!
+[Sat Jan 11 15:50:03 2025] Derakor the Vindicator hits Megachad for 450 points of damage.
+[Sat Jan 11 15:50:03 2025] Derakor the Vindicator hits Megachad for 239 points of damage.
+[Sat Jan 11 15:50:03 2025] Derakor the Vindicator hits Megachad for 450 points of damage.
+[Sat Jan 11 15:50:03 2025] You have healed Megachad for 2635 points of damage.
+[Sat Jan 11 15:50:03 2025] Megachad is completely healed.
+[Sat Jan 11 15:50:03 2025] Durtemike begins to cast a spell.
+[Sat Jan 11 15:50:04 2025] Outie begins to cast a spell.
+[Sat Jan 11 15:50:04 2025] Outie shouts, 'GG 005 CH -- Mcganahan'
+[Sat Jan 11 15:50:04 2025] Kelce has been infused with the power of an Avatar.
+[Sat Jan 11 15:50:05 2025] Krakish has been infused with the power of an Avatar.
+[Sat Jan 11 15:50:06 2025] Durtemike winces.
+[Sat Jan 11 15:50:06 2025] Mcganahan Scores a critical hit!(61)
+[Sat Jan 11 15:50:06 2025] Atouk Scores a critical hit!(105)
+[Sat Jan 11 15:50:06 2025] Durtemike peers through a telescope.
+[Sat Jan 11 15:50:07 2025] You feel replenished.
+[Sat Jan 11 15:50:07 2025] Megachad begins to radiate with divine strength.
+[Sat Jan 11 15:50:07 2025] Durtemike begins to cast a spell.
+[Sat Jan 11 15:50:07 2025] Atouk beams a smile at Derakor the Vindicator
+[Sat Jan 11 15:50:07 2025] Atouk says 'Ahhh, I feel much better now...'
+[Sat Jan 11 15:50:08 2025] Richardbox begins to cast a spell.
+[Sat Jan 11 15:50:08 2025] Richardbox shouts, 'GG 006 CH -- Mcganahan'
+[Sat Jan 11 15:50:08 2025] You say out of character, 'GG RCH AAA -- Megachad'
+[Sat Jan 11 15:50:08 2025] Derakor the Vindicator goes on a RAMPAGE!
+[Sat Jan 11 15:50:08 2025] Derakor the Vindicator hits Megachad for 700 points of damage.
+[Sat Jan 11 15:50:08 2025] Derakor the Vindicator hits Megachad for 252 points of damage.
+[Sat Jan 11 15:50:08 2025] Derakor the Vindicator tries to hit Megachad, but misses!
+[Sat Jan 11 15:50:08 2025] Derakor the Vindicator hits Megachad for 200 points of damage.
+[Sat Jan 11 15:50:09 2025] You begin casting Complete Healing.
+[Sat Jan 11 15:50:09 2025] You can't use that command while casting...
+[Sat Jan 11 15:50:09 2025] You can't use that command while casting...
+[Sat Jan 11 15:50:10 2025] Durtemike winces.
+[Sat Jan 11 15:50:10 2025] Durtemike peers through a telescope.
+[Sat Jan 11 15:50:10 2025] Durtemike begins to cast a spell.
+[Sat Jan 11 15:50:11 2025] Derakor the Vindicator goes on a RAMPAGE!
+[Sat Jan 11 15:50:11 2025] Derakor the Vindicator tries to hit Megachad, but misses!
+[Sat Jan 11 15:50:11 2025] Derakor the Vindicator tries to hit Megachad, but misses!
+[Sat Jan 11 15:50:11 2025] Derakor the Vindicator hits Megachad for 700 points of damage.
+[Sat Jan 11 15:50:11 2025] Derakor the Vindicator has become ENRAGED.
+[Sat Jan 11 15:50:12 2025] Jolimec begins to cast a spell.
+[Sat Jan 11 15:50:12 2025] Jolimec shouts, 'GG 001 CH -- Mcganahan'
+[Sat Jan 11 15:50:13 2025] You feel replenished.
+[Sat Jan 11 15:50:13 2025] Durtemike winces.
+[Sat Jan 11 15:50:13 2025] Durtemike peers through a telescope.
+[Sat Jan 11 15:50:13 2025] Mcganahan goes into a berserker frenzy!
+[Sat Jan 11 15:50:14 2025] Durtemike begins to cast a spell.
+[Sat Jan 11 15:50:14 2025] Mcganahan is no longer berserk.
+[Sat Jan 11 15:50:15 2025] Metran begins to cast a spell.
+[Sat Jan 11 15:50:15 2025] Metran shouts, 'GG 002 CH -- Mcganahan'
+[Sat Jan 11 15:50:16 2025] Durtemike winces.
+[Sat Jan 11 15:50:16 2025] Atouk Scores a critical hit!(68)
+[Sat Jan 11 15:50:17 2025] Durtemike peers through a telescope.
+[Sat Jan 11 15:50:17 2025] Durtemike begins to cast a spell.
+[Sat Jan 11 15:50:17 2025] Oowch beams a smile at Derakor the Vindicator
+[Sat Jan 11 15:50:17 2025] Oowch says 'Ahhh, I feel much better now...'
+[Sat Jan 11 15:50:17 2025] Derakor the Vindicator goes on a RAMPAGE!
+[Sat Jan 11 15:50:17 2025] Derakor the Vindicator hits Megachad for 515 points of damage.
+[Sat Jan 11 15:50:17 2025] Derakor the Vindicator hits Megachad for 278 points of damage.
+[Sat Jan 11 15:50:18 2025] Atouk has been infused with the power of an Avatar.
+[Sat Jan 11 15:50:19 2025] Kelce has been infused with the power of an Avatar.
+[Sat Jan 11 15:50:19 2025] You have healed Megachad for 2209 points of damage.
+[Sat Jan 11 15:50:19 2025] Megachad is completely healed.
+[Sat Jan 11 15:50:19 2025] You feel replenished.
+[Sat Jan 11 15:50:19 2025] Derakor the Vindicator goes on a RAMPAGE!
+[Sat Jan 11 15:50:19 2025] Derakor the Vindicator hits Megachad for 700 points of damage.
+[Sat Jan 11 15:50:19 2025] Derakor the Vindicator hits Megachad for 700 points of damage.
+[Sat Jan 11 15:50:19 2025] Derakor the Vindicator hits Megachad for 700 points of damage.
+[Sat Jan 11 15:50:19 2025] Squished begins to cast a spell.
+[Sat Jan 11 15:50:19 2025] Squished shouts, 'GG 003 CH -- Mcganahan'
+[Sat Jan 11 15:50:19 2025] Durtemike winces.
+[Sat Jan 11 15:50:20 2025] Durtemike peers through a telescope.
+[Sat Jan 11 15:50:20 2025] Durtemike begins to cast a spell.
+[Sat Jan 11 15:50:21 2025] Atouk has been infused with the power of an Avatar.
+[Sat Jan 11 15:50:23 2025] Blumpp begins to cast a spell.
+[Sat Jan 11 15:50:23 2025] Durtemike winces.
+[Sat Jan 11 15:50:23 2025] Blumpp shouts, 'GG 004 CH -- Mcganahan'
+[Sat Jan 11 15:50:24 2025] Derakor the Vindicator goes on a RAMPAGE!
+[Sat Jan 11 15:50:24 2025] Derakor the Vindicator hits Megachad for 226 points of damage.
+[Sat Jan 11 15:50:24 2025] Derakor the Vindicator hits Megachad for 278 points of damage.
+[Sat Jan 11 15:50:24 2025] Derakor the Vindicator tries to hit Megachad, but misses!
+[Sat Jan 11 15:50:24 2025] Derakor the Vindicator hits Megachad for 410 points of damage.
+[Sat Jan 11 15:50:24 2025] Derakor the Vindicator is no longer enraged.
+[Sat Jan 11 15:50:25 2025] You feel replenished.
+[Sat Jan 11 15:50:25 2025] Vezpah begins to cast a spell.
+[Sat Jan 11 15:50:26 2025] Mcganahan Scores a critical hit!(25)
+[Sat Jan 11 15:50:26 2025] Durtemike begins to cast a spell.
+[Sat Jan 11 15:50:26 2025] Ricks begins to cast a spell.
+[Sat Jan 11 15:50:27 2025] Outie begins to cast a spell.
+[Sat Jan 11 15:50:27 2025] Outie shouts, 'GG 005 CH -- Mcganahan'
+[Sat Jan 11 15:50:27 2025] Megachad Scores a critical hit!(127)
+[Sat Jan 11 15:50:28 2025] Atouk has been infused with the power of an Avatar.
+[Sat Jan 11 15:50:28 2025] Megachad is blasted with chlorophyll.
+[Sat Jan 11 15:50:29 2025] Gorimek has been infused with the power of an Avatar.
+[Sat Jan 11 15:50:29 2025] You say out of character, 'GG RCH AAA -- Megachad'
+[Sat Jan 11 15:50:29 2025] Derakor the Vindicator goes on a RAMPAGE!
+[Sat Jan 11 15:50:29 2025] Derakor the Vindicator tries to hit Megachad, but Megachad dodges!
+[Sat Jan 11 15:50:29 2025] Derakor the Vindicator hits Megachad for 700 points of damage.
+[Sat Jan 11 15:50:29 2025] Derakor the Vindicator hits Megachad for 700 points of damage.
+[Sat Jan 11 15:50:29 2025] Your faction standing with ClawsofVeeshan could not possibly get any better.
+[Sat Jan 11 15:50:29 2025] Your faction standing with KingTormax could not possibly get any worse.
+[Sat Jan 11 15:50:29 2025] Your faction standing with Kromrif could not possibly get any worse.
+[Sat Jan 11 15:50:29 2025] Your faction standing with Kromzek could not possibly get any worse.
+[Sat Jan 11 15:50:29 2025] You can't use that command while casting...
+[Sat Jan 11 15:50:30 2025] You begin casting Complete Healing.
+[Sat Jan 11 15:50:30 2025] You can't use that command while casting...
+[Sat Jan 11 15:50:30 2025] Ricks's casting is interrupted!
+[Sat Jan 11 15:50:31 2025] Robosnecro tells the guild, 'dropping guards'
+[Sat Jan 11 15:50:31 2025] You feel replenished.
+[Sat Jan 11 15:50:31 2025] Outie's casting is interrupted!
+[Sat Jan 11 15:50:32 2025] Megachad falls into a state of torpor.
+[Sat Jan 11 15:50:32 2025] Richardbox begins to cast a spell.
+[Sat Jan 11 15:50:32 2025] Richardbox shouts, 'GG 006 CH -- Mcganahan'
+[Sat Jan 11 15:50:32 2025] Megachad tells the guild, '!tod vindi'
+[Sat Jan 11 15:50:33 2025] Krakish tells the guild, '!tod Vindi'
+[Sat Jan 11 15:50:33 2025] You say to your guild, '!stopchain'
+[Sat Jan 11 15:50:34 2025] Mubbens says, 'nice'
+[Sat Jan 11 15:50:35 2025] Darkfires tells you, 'whats the !chainspeed 3 thing, does that change something on gina or eq tools?'
+[Sat Jan 11 15:50:36 2025] Richardbox's casting is interrupted!
+[Sat Jan 11 15:50:36 2025] Triten begins to cast a spell.
+[Sat Jan 11 15:50:37 2025] Triten's casting is interrupted!
+[Sat Jan 11 15:50:37 2025] You feel replenished.
+[Sat Jan 11 15:50:37 2025] Triten begins to cast a spell.
+[Sat Jan 11 15:50:37 2025] Atouk tells the guild, 'WE WIN'
+[Sat Jan 11 15:50:40 2025] You have healed Megachad for 3375 points of damage.
+[Sat Jan 11 15:50:40 2025] Megachad is completely healed.
+[Sat Jan 11 15:50:40 2025] Delrake tells the guild, 'Chestplate of Vindication'
+[Sat Jan 11 15:50:40 2025] Squished tells the guild, 'good work everybody'
+[Sat Jan 11 15:50:41 2025] You told Darkfires, 'not yet'
+[Sat Jan 11 15:50:41 2025] Yuimetal begins to cast a spell.
+[Sat Jan 11 15:50:43 2025] You feel replenished.
+[Sat Jan 11 15:50:43 2025] Allaura's skin shimmers.
+[Sat Jan 11 15:50:43 2025] Squished's skin shimmers.
+[Sat Jan 11 15:50:43 2025] Richardbox's skin shimmers.
+[Sat Jan 11 15:50:43 2025] Triten's skin shimmers.
+[Sat Jan 11 15:50:44 2025] Mubbens tells the guild, 'sick!'
+[Sat Jan 11 15:50:44 2025] Richardbox tells the guild, 'well richardbox was in PoG lol'
+[Sat Jan 11 15:50:45 2025] Jolimec tells the guild, 'ncie'
+[Sat Jan 11 15:50:45 2025] Delrake has fallen to the ground.
+[Sat Jan 11 15:50:49 2025] You feel replenished.
+[Sat Jan 11 15:50:51 2025] Yuimetal's casting is interrupted!
+[Sat Jan 11 15:50:51 2025] Yuimetal gathers glowing blue strands of mana.
+[Sat Jan 11 15:50:54 2025] You told Darkfires, 'working on a thing, but wanted it in my logs'
+[Sat Jan 11 15:50:54 2025] Rajo tells the guild, 'Chestplate of Vindication 20'
+[Sat Jan 11 15:50:55 2025] You feel replenished.
+[Sat Jan 11 15:50:58 2025] Darkfires tells you, 'Oh nice, i like it'
